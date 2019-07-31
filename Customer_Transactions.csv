@@ -1,0 +1,1159 @@
+,Account,Amount,Category,Date,Description,Memo,Original Description,Parent Category,Pending,Tags,Type
+22,Business CheckingBusiness Checking,210,Income,2018-10-27,Deposit #1102,Check,Deposit2,Income,False,,Credit
+23,4_D_D_Checking Account4_D_D_Checking Account,210,Income,2018-10-27,Deposit #1102,Check,Deposit2,Income,False,,Credit
+24,Visa,210,Income,2018-10-27,Deposit,Check,Deposit2,Income,False,,Credit
+25,MasterCard,210,Income,2018-10-27,Deposit,Check,Deposit2,Income,False,,Credit
+26,Auto Loan,210,Income,2018-10-27,Deposit,Check,Deposit2,Income,False,,Credit
+27,Personal Savings,210,Income,2018-10-27,Deposit,Check,Deposit2,Income,False,,Credit
+28,CD %%% Account,210,Income,2018-10-27,Deposit,Check,Deposit2,Income,False,,Credit
+29,LOC Loan,210,Income,2018-10-27,Deposit,Check,Deposit2,Income,False,,Credit
+30,401K Account,210,Investments,2018-10-27,Deposit,Check,Deposit2,Investments,False,,Credit
+31,Home Loan,210,Income,2018-10-27,Deposit,Check,Deposit2,Income,False,,Credit
+32,Business Savings,210,Income,2018-10-27,Deposit,Check,Deposit2,Income,False,,Credit
+77,MasterCard,390,Income,2018-10-21,Deposit,Transactions,Deposit3,Income,False,,Credit
+78,Visa,390,Income,2018-10-21,Deposit,Transactions,Deposit3,Income,False,,Credit
+79,Business Savings,390,Income,2018-10-21,Deposit,Transactions,Deposit3,Income,False,,Credit
+80,LOC Loan,390,Income,2018-10-21,Deposit,Transactions,Deposit3,Income,False,,Credit
+81,Home Loan,390,Income,2018-10-21,Deposit,Transactions,Deposit3,Income,False,,Credit
+82,Auto Loan,390,Income,2018-10-21,Deposit,Transactions,Deposit3,Income,False,,Credit
+83,Personal Savings,390,Income,2018-10-21,Deposit,Transactions,Deposit3,Income,False,,Credit
+84,Business CheckingBusiness Checking,390,Income,2018-10-21,Deposit,Transactions,Deposit3,Income,False,,Credit
+85,CD %%% Account,390,Income,2018-10-21,Deposit,Transactions,Deposit3,Income,False,,Credit
+86,401K Account,390,Investments,2018-10-21,Deposit,Transactions,Deposit3,Investments,False,,Credit
+87,4_D_D_Checking Account4_D_D_Checking Account,390,Income,2018-10-21,Deposit,Transactions,Deposit3,Income,False,,Credit
+110,LOC Loan,480,Shopping,2018-10-18,Return Of Goods,Transactions,Return of Goods3,Shopping,False,,Credit
+111,Home Loan,480,Shopping,2018-10-18,Return Of Goods,Transactions,Return of Goods3,Shopping,False,,Credit
+112,Business CheckingBusiness Checking,480,Shopping,2018-10-18,Return Of Goods,Transactions,Return of Goods3,Shopping,False,,Credit
+113,401K Account,480,Investments,2018-10-18,Return Of Goods,Transactions,Return of Goods3,Investments,False,,Credit
+114,Auto Loan,480,Shopping,2018-10-18,Return Of Goods,Transactions,Return of Goods3,Shopping,False,,Credit
+115,4_D_D_Checking Account4_D_D_Checking Account,480,Shopping,2018-10-18,Return Of Goods,Transactions,Return of Goods3,Shopping,False,,Credit
+116,Business Savings,480,Shopping,2018-10-18,Return Of Goods,Transactions,Return of Goods3,Shopping,False,,Credit
+117,CD %%% Account,480,Shopping,2018-10-18,Return Of Goods,Transactions,Return of Goods3,Shopping,False,,Credit
+118,Visa,480,Shopping,2018-10-18,Return Of Goods,Transactions,Return of Goods3,Shopping,False,,Credit
+119,MasterCard,480,Shopping,2018-10-18,Return Of Goods,Transactions,Return of Goods3,Shopping,False,,Credit
+120,Personal Savings,480,Shopping,2018-10-18,Return Of Goods,Transactions,Return of Goods3,Shopping,False,,Credit
+143,Home Loan,540,Income,2018-10-15,Deposit,Transactions,Deposit4,Income,False,,Credit
+144,401K Account,540,Investments,2018-10-15,Deposit,Transactions,Deposit4,Investments,False,,Credit
+145,LOC Loan,540,Income,2018-10-15,Deposit,Transactions,Deposit4,Income,False,,Credit
+146,Personal Savings,540,Income,2018-10-15,Deposit,Transactions,Deposit4,Income,False,,Credit
+147,Business CheckingBusiness Checking,540,Income,2018-10-15,Deposit,Transactions,Deposit4,Income,False,,Credit
+148,Auto Loan,540,Income,2018-10-15,Deposit,Transactions,Deposit4,Income,False,,Credit
+149,CD %%% Account,540,Income,2018-10-15,Deposit,Transactions,Deposit4,Income,False,,Credit
+150,MasterCard,540,Income,2018-10-15,Deposit,Transactions,Deposit4,Income,False,,Credit
+151,4_D_D_Checking Account4_D_D_Checking Account,540,Income,2018-10-15,Deposit,Transactions,Deposit4,Income,False,,Credit
+152,Visa,540,Income,2018-10-15,Deposit,Transactions,Deposit4,Income,False,,Credit
+153,Business Savings,540,Income,2018-10-15,Deposit,Transactions,Deposit4,Income,False,,Credit
+226,Visa,630,Shopping,2018-09-02,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+227,Auto Loan,630,Shopping,2018-09-02,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+228,Business CheckingBusiness Checking,630,Shopping,2018-09-02,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+229,4_D_D_Checking Account4_D_D_Checking Account,630,Shopping,2018-09-02,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+230,CD %%% Account,630,Shopping,2018-09-02,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+231,Home Loan,630,Shopping,2018-09-02,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+232,Personal Checking,630,Shopping,2018-09-02,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+233,Business Savings,630,Shopping,2018-09-02,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+234,MasterCard,630,Shopping,2018-09-02,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+235,401K Account,630,Investments,2018-09-02,Return Of Goods,,Return of Goods4,Investments,False,,Credit
+236,Personal Savings,630,Shopping,2018-09-02,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+237,LOC Loan,630,Shopping,2018-09-02,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+262,Home Loan,810,Income,2018-08-30,Deposit,,Deposit5,Income,False,,Credit
+263,Visa,810,Income,2018-08-30,Deposit,,Deposit5,Income,False,,Credit
+264,Personal Checking,810,Income,2018-08-30,Deposit,,Deposit5,Income,False,,Credit
+265,CD %%% Account,810,Income,2018-08-30,Deposit,,Deposit5,Income,False,,Credit
+266,MasterCard,810,Income,2018-08-30,Deposit,,Deposit5,Income,False,,Credit
+267,Personal Savings,810,Income,2018-08-30,Deposit,,Deposit5,Income,False,,Credit
+268,Business CheckingBusiness Checking,810,Income,2018-08-30,Deposit,,Deposit5,Income,False,,Credit
+269,401K Account,810,Investments,2018-08-30,Deposit,,Deposit5,Investments,False,,Credit
+270,LOC Loan,810,Income,2018-08-30,Deposit,,Deposit5,Income,False,,Credit
+271,Auto Loan,810,Income,2018-08-30,Deposit,,Deposit5,Income,False,,Credit
+272,Business Savings,810,Income,2018-08-30,Deposit,,Deposit5,Income,False,,Credit
+273,4_D_D_Checking Account4_D_D_Checking Account,810,Income,2018-08-30,Deposit,,Deposit5,Income,False,,Credit
+286,Personal Checking,840,Shopping,2018-08-27,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+287,Visa,840,Shopping,2018-08-27,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+288,LOC Loan,840,Shopping,2018-08-27,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+289,CD %%% Account,840,Shopping,2018-08-27,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+290,Personal Savings,840,Shopping,2018-08-27,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+291,MasterCard,840,Shopping,2018-08-27,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+292,Home Loan,840,Shopping,2018-08-27,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+293,Auto Loan,840,Shopping,2018-08-27,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+294,401K Account,840,Investments,2018-08-27,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Investments,False,,Credit
+295,Business Savings,840,Shopping,2018-08-27,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+296,Business CheckingBusiness Checking,840,Shopping,2018-08-27,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+297,4_D_D_Checking Account4_D_D_Checking Account,840,Shopping,2018-08-27,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+322,401K Account,630,Investments,2018-08-23,Return Of Goods,,Return of Goods4,Investments,False,,Credit
+323,MasterCard,630,Shopping,2018-08-23,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+324,LOC Loan,630,Shopping,2018-08-23,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+325,Personal Savings,630,Shopping,2018-08-23,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+326,CD %%% Account,630,Shopping,2018-08-23,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+327,Personal Checking,630,Shopping,2018-08-23,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+328,Visa,630,Shopping,2018-08-23,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+329,Auto Loan,630,Shopping,2018-08-23,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+330,Business CheckingBusiness Checking,630,Shopping,2018-08-23,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+331,Business Savings,630,Shopping,2018-08-23,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+332,4_D_D_Checking Account4_D_D_Checking Account,630,Shopping,2018-08-23,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+333,Home Loan,630,Shopping,2018-08-23,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+382,Personal Savings,630,Shopping,2018-08-16,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+383,Business Savings,630,Shopping,2018-08-16,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+384,401K Account,630,Investments,2018-08-16,Return Of Goods,,Return of Goods4,Investments,False,,Credit
+385,MasterCard,630,Shopping,2018-08-16,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+386,CD %%% Account,630,Shopping,2018-08-16,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+387,4_D_D_Checking Account4_D_D_Checking Account,630,Shopping,2018-08-16,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+388,Business CheckingBusiness Checking,630,Shopping,2018-08-16,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+389,Personal Checking,630,Shopping,2018-08-16,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+390,Auto Loan,630,Shopping,2018-08-16,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+391,LOC Loan,630,Shopping,2018-08-16,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+392,Home Loan,630,Shopping,2018-08-16,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+393,Visa,630,Shopping,2018-08-16,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+418,Personal Savings,810,Income,2018-08-13,Deposit,,Deposit5,Income,False,,Credit
+419,Home Loan,810,Income,2018-08-13,Deposit,,Deposit5,Income,False,,Credit
+420,4_D_D_Checking Account4_D_D_Checking Account,810,Income,2018-08-13,Deposit,,Deposit5,Income,False,,Credit
+421,Visa,810,Income,2018-08-13,Deposit,,Deposit5,Income,False,,Credit
+422,Auto Loan,810,Income,2018-08-13,Deposit,,Deposit5,Income,False,,Credit
+423,Personal Checking,810,Income,2018-08-13,Deposit,,Deposit5,Income,False,,Credit
+424,Business CheckingBusiness Checking,810,Income,2018-08-13,Deposit,,Deposit5,Income,False,,Credit
+425,MasterCard,810,Income,2018-08-13,Deposit,,Deposit5,Income,False,,Credit
+426,CD %%% Account,810,Income,2018-08-13,Deposit,,Deposit5,Income,False,,Credit
+427,401K Account,810,Investments,2018-08-13,Deposit,,Deposit5,Investments,False,,Credit
+428,LOC Loan,810,Income,2018-08-13,Deposit,,Deposit5,Income,False,,Credit
+429,Business Savings,810,Income,2018-08-13,Deposit,,Deposit5,Income,False,,Credit
+442,Personal Savings,630,Shopping,2018-08-11,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+443,Visa,630,Shopping,2018-08-11,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+444,CD %%% Account,630,Shopping,2018-08-11,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+445,401K Account,630,Investments,2018-08-11,Return Of Goods,,Return of Goods4,Investments,False,,Credit
+446,Personal Checking,630,Shopping,2018-08-11,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+447,Business CheckingBusiness Checking,630,Shopping,2018-08-11,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+448,LOC Loan,630,Shopping,2018-08-11,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+449,Home Loan,630,Shopping,2018-08-11,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+450,Business Savings,630,Shopping,2018-08-11,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+451,MasterCard,630,Shopping,2018-08-11,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+452,4_D_D_Checking Account4_D_D_Checking Account,630,Shopping,2018-08-11,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+453,Auto Loan,630,Shopping,2018-08-11,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+478,MasterCard,810,Income,2018-08-08,Deposit,,Deposit5,Income,False,,Credit
+479,4_D_D_Checking Account4_D_D_Checking Account,810,Income,2018-08-08,Deposit,,Deposit5,Income,False,,Credit
+480,Visa,810,Income,2018-08-08,Deposit,,Deposit5,Income,False,,Credit
+481,Business Savings,810,Income,2018-08-08,Deposit,,Deposit5,Income,False,,Credit
+482,Business CheckingBusiness Checking,810,Income,2018-08-08,Deposit,,Deposit5,Income,False,,Credit
+483,Auto Loan,810,Income,2018-08-08,Deposit,,Deposit5,Income,False,,Credit
+484,LOC Loan,810,Income,2018-08-08,Deposit,,Deposit5,Income,False,,Credit
+485,401K Account,810,Investments,2018-08-08,Deposit,,Deposit5,Investments,False,,Credit
+486,Personal Checking,810,Income,2018-08-08,Deposit,,Deposit5,Income,False,,Credit
+487,Personal Savings,810,Income,2018-08-08,Deposit,,Deposit5,Income,False,,Credit
+488,Home Loan,810,Income,2018-08-08,Deposit,,Deposit5,Income,False,,Credit
+489,CD %%% Account,810,Income,2018-08-08,Deposit,,Deposit5,Income,False,,Credit
+502,Personal Checking,840,Shopping,2018-08-05,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+503,Personal Savings,840,Shopping,2018-08-05,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+504,Business Savings,840,Shopping,2018-08-05,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+505,Business CheckingBusiness Checking,840,Shopping,2018-08-05,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+506,Home Loan,840,Shopping,2018-08-05,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+507,LOC Loan,840,Shopping,2018-08-05,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+508,401K Account,840,Investments,2018-08-05,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Investments,False,,Credit
+509,Auto Loan,840,Shopping,2018-08-05,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+510,MasterCard,840,Shopping,2018-08-05,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+511,Visa,840,Shopping,2018-08-05,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+512,CD %%% Account,840,Shopping,2018-08-05,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+513,4_D_D_Checking Account4_D_D_Checking Account,840,Shopping,2018-08-05,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+526,Home Loan,630,Shopping,2018-08-03,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+527,Business CheckingBusiness Checking,630,Shopping,2018-08-03,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+528,Personal Checking,630,Shopping,2018-08-03,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+529,4_D_D_Checking Account4_D_D_Checking Account,630,Shopping,2018-08-03,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+530,Business Savings,630,Shopping,2018-08-03,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+531,Auto Loan,630,Shopping,2018-08-03,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+532,CD %%% Account,630,Shopping,2018-08-03,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+533,401K Account,630,Investments,2018-08-03,Return Of Goods,,Return of Goods4,Investments,False,,Credit
+534,LOC Loan,630,Shopping,2018-08-03,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+535,Visa,630,Shopping,2018-08-03,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+536,MasterCard,630,Shopping,2018-08-03,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+537,Personal Savings,630,Shopping,2018-08-03,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+562,Personal Checking,810,Income,2018-07-31,Deposit,,Deposit5,Income,False,,Credit
+563,401K Account,810,Investments,2018-07-31,Deposit,,Deposit5,Investments,False,,Credit
+564,Visa,810,Income,2018-07-31,Deposit,,Deposit5,Income,False,,Credit
+565,LOC Loan,810,Income,2018-07-31,Deposit,,Deposit5,Income,False,,Credit
+566,CD %%% Account,810,Income,2018-07-31,Deposit,,Deposit5,Income,False,,Credit
+567,MasterCard,810,Income,2018-07-31,Deposit,,Deposit5,Income,False,,Credit
+568,Personal Savings,810,Income,2018-07-31,Deposit,,Deposit5,Income,False,,Credit
+569,Home Loan,810,Income,2018-07-31,Deposit,,Deposit5,Income,False,,Credit
+570,Auto Loan,810,Income,2018-07-31,Deposit,,Deposit5,Income,False,,Credit
+571,4_D_D_Checking Account4_D_D_Checking Account,810,Income,2018-07-31,Deposit,,Deposit5,Income,False,,Credit
+572,Business Savings,810,Income,2018-07-31,Deposit,,Deposit5,Income,False,,Credit
+573,Business CheckingBusiness Checking,810,Income,2018-07-31,Deposit,,Deposit5,Income,False,,Credit
+596,Home Loan,630,Shopping,2018-07-26,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+597,Personal Savings,630,Shopping,2018-07-26,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+598,Personal Checking,630,Shopping,2018-07-26,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+599,Business CheckingBusiness Checking,630,Shopping,2018-07-26,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+600,Auto Loan,630,Shopping,2018-07-26,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+601,401K Account,630,Investments,2018-07-26,Return Of Goods,,Return of Goods4,Investments,False,,Credit
+602,LOC Loan,630,Shopping,2018-07-26,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+603,Business Savings,630,Shopping,2018-07-26,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+604,Visa,630,Shopping,2018-07-26,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+605,CD %%% Account,630,Shopping,2018-07-26,Return Of Goods,,Return of Goods4,Shopping,False,,Credit
+626,401K Account,810,Investments,2018-07-23,Deposit,,Deposit5,Investments,False,,Credit
+627,CD %%% Account,810,Income,2018-07-23,Deposit,,Deposit5,Income,False,,Credit
+628,Personal Savings,810,Income,2018-07-23,Deposit,,Deposit5,Income,False,,Credit
+629,Business Savings,810,Income,2018-07-23,Deposit,,Deposit5,Income,False,,Credit
+630,LOC Loan,810,Income,2018-07-23,Deposit,,Deposit5,Income,False,,Credit
+631,Home Loan,810,Income,2018-07-23,Deposit,,Deposit5,Income,False,,Credit
+632,Business CheckingBusiness Checking,810,Income,2018-07-23,Deposit,,Deposit5,Income,False,,Credit
+633,Auto Loan,810,Income,2018-07-23,Deposit,,Deposit5,Income,False,,Credit
+634,Visa,810,Income,2018-07-23,Deposit,,Deposit5,Income,False,,Credit
+635,Personal Checking,810,Income,2018-07-23,Deposit,,Deposit5,Income,False,,Credit
+646,Business Savings,840,Shopping,2018-07-20,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+647,Personal Checking,840,Shopping,2018-07-20,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+648,CD %%% Account,840,Shopping,2018-07-20,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+649,Auto Loan,840,Shopping,2018-07-20,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+650,Visa,840,Shopping,2018-07-20,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+651,Home Loan,840,Shopping,2018-07-20,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+652,Personal Savings,840,Shopping,2018-07-20,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+653,Business CheckingBusiness Checking,840,Shopping,2018-07-20,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+654,LOC Loan,840,Shopping,2018-07-20,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Shopping,False,,Credit
+655,401K Account,840,Investments,2018-07-20,Return Of Goods Memo,Memo5,Return of Goods5 / Memo5,Investments,False,,Credit
+678,Personal Checking,960,Income,2018-07-17,Deposit,,Deposit6,Income,False,,Credit
+679,Auto Loan,960,Income,2018-07-17,Deposit,,Deposit6,Income,False,,Credit
+680,Visa,960,Income,2018-07-17,Deposit,,Deposit6,Income,False,,Credit
+681,4_D_D_Checking Account4_D_D_Checking Account,960,Income,2018-07-17,Deposit,,Deposit6,Income,False,,Credit
+682,CD %%% Account,960,Income,2018-07-17,Deposit,,Deposit6,Income,False,,Credit
+683,401K Account,960,Investments,2018-07-17,Deposit,,Deposit6,Investments,False,,Credit
+684,MasterCard,960,Income,2018-07-17,Deposit,,Deposit6,Income,False,,Credit
+685,Business Savings,960,Income,2018-07-17,Deposit,,Deposit6,Income,False,,Credit
+686,Business CheckingBusiness Checking,960,Income,2018-07-17,Deposit,,Deposit6,Income,False,,Credit
+687,Home Loan,960,Income,2018-07-17,Deposit,,Deposit6,Income,False,,Credit
+688,Personal Savings,960,Income,2018-07-17,Deposit,,Deposit6,Income,False,,Credit
+689,LOC Loan,960,Income,2018-07-17,Deposit,,Deposit6,Income,False,,Credit
+714,Auto Loan,1020,Shopping,2018-07-14,Return Of Goods,,Return of Goods6,Shopping,False,,Credit
+715,Home Loan,1020,Shopping,2018-07-14,Return Of Goods,,Return of Goods6,Shopping,False,,Credit
+716,MasterCard,1020,Shopping,2018-07-14,Return Of Goods,,Return of Goods6,Shopping,False,,Credit
+717,4_D_D_Checking Account4_D_D_Checking Account,1020,Shopping,2018-07-14,Return Of Goods,,Return of Goods6,Shopping,False,,Credit
+718,CD %%% Account,1020,Shopping,2018-07-14,Return Of Goods,,Return of Goods6,Shopping,False,,Credit
+719,Personal Checking,1020,Shopping,2018-07-14,Return Of Goods,,Return of Goods6,Shopping,False,,Credit
+720,Visa,1020,Shopping,2018-07-14,Return Of Goods,,Return of Goods6,Shopping,False,,Credit
+721,Business CheckingBusiness Checking,1020,Shopping,2018-07-14,Return Of Goods,,Return of Goods6,Shopping,False,,Credit
+722,401K Account,1020,Investments,2018-07-14,Return Of Goods,,Return of Goods6,Investments,False,,Credit
+723,Personal Savings,1020,Shopping,2018-07-14,Return Of Goods,,Return of Goods6,Shopping,False,,Credit
+724,LOC Loan,1020,Shopping,2018-07-14,Return Of Goods,,Return of Goods6,Shopping,False,,Credit
+725,Business Savings,1020,Shopping,2018-07-14,Return Of Goods,,Return of Goods6,Shopping,False,,Credit
+774,Personal Checking,1260,Shopping,2018-07-08,Return Of Goods,,Return of Goods7,Shopping,False,,Credit
+775,LOC Loan,1260,Shopping,2018-07-08,Return Of Goods,,Return of Goods7,Shopping,False,,Credit
+776,MasterCard,1260,Shopping,2018-07-08,Return Of Goods,,Return of Goods7,Shopping,False,,Credit
+777,Home Loan,1260,Shopping,2018-07-08,Return Of Goods,,Return of Goods7,Shopping,False,,Credit
+778,Visa,1260,Shopping,2018-07-08,Return Of Goods,,Return of Goods7,Shopping,False,,Credit
+779,Business Savings,1260,Shopping,2018-07-08,Return Of Goods,,Return of Goods7,Shopping,False,,Credit
+780,CD %%% Account,1260,Shopping,2018-07-08,Return Of Goods,,Return of Goods7,Shopping,False,,Credit
+781,Auto Loan,1260,Shopping,2018-07-08,Return Of Goods,,Return of Goods7,Shopping,False,,Credit
+782,401K Account,1260,Investments,2018-07-08,Return Of Goods,,Return of Goods7,Investments,False,,Credit
+783,Business CheckingBusiness Checking,1260,Shopping,2018-07-08,Return Of Goods,,Return of Goods7,Shopping,False,,Credit
+784,4_D_D_Checking Account4_D_D_Checking Account,1260,Shopping,2018-07-08,Return Of Goods,,Return of Goods7,Shopping,False,,Credit
+785,Personal Savings,1260,Shopping,2018-07-08,Return Of Goods,,Return of Goods7,Shopping,False,,Credit
+810,4_D_D_Checking Account4_D_D_Checking Account,1290,Income,2018-07-05,Deposit,,Deposit8,Income,False,,Credit
+811,LOC Loan,1290,Income,2018-07-05,Deposit,,Deposit8,Income,False,,Credit
+812,Business Savings,1290,Income,2018-07-05,Deposit,,Deposit8,Income,False,,Credit
+813,Auto Loan,1290,Income,2018-07-05,Deposit,,Deposit8,Income,False,,Credit
+814,Visa,1290,Income,2018-07-05,Deposit,,Deposit8,Income,False,,Credit
+815,CD %%% Account,1290,Income,2018-07-05,Deposit,,Deposit8,Income,False,,Credit
+816,Personal Checking,1290,Income,2018-07-05,Deposit,,Deposit8,Income,False,,Credit
+817,Personal Savings,1290,Income,2018-07-05,Deposit,,Deposit8,Income,False,,Credit
+818,401K Account,1290,Investments,2018-07-05,Deposit,,Deposit8,Investments,False,,Credit
+819,MasterCard,1290,Income,2018-07-05,Deposit,,Deposit8,Income,False,,Credit
+820,Business CheckingBusiness Checking,1290,Income,2018-07-05,Deposit,,Deposit8,Income,False,,Credit
+821,Home Loan,1290,Income,2018-07-05,Deposit,,Deposit8,Income,False,,Credit
+846,Auto Loan,1470,Shopping,2018-07-02,Return Of Goods,,Return of Goods8,Shopping,False,,Credit
+847,Personal Savings,1470,Shopping,2018-07-02,Return Of Goods,,Return of Goods8,Shopping,False,,Credit
+848,Business CheckingBusiness Checking,1470,Shopping,2018-07-02,Return Of Goods,,Return of Goods8,Shopping,False,,Credit
+849,Home Loan,1470,Shopping,2018-07-02,Return Of Goods,,Return of Goods8,Shopping,False,,Credit
+850,MasterCard,1470,Shopping,2018-07-02,Return Of Goods,,Return of Goods8,Shopping,False,,Credit
+851,Business Savings,1470,Shopping,2018-07-02,Return Of Goods,,Return of Goods8,Shopping,False,,Credit
+852,401K Account,1470,Investments,2018-07-02,Return Of Goods,,Return of Goods8,Investments,False,,Credit
+853,LOC Loan,1470,Shopping,2018-07-02,Return Of Goods,,Return of Goods8,Shopping,False,,Credit
+854,Visa,1470,Shopping,2018-07-02,Return Of Goods,,Return of Goods8,Shopping,False,,Credit
+855,CD %%% Account,1470,Shopping,2018-07-02,Return Of Goods,,Return of Goods8,Shopping,False,,Credit
+856,Personal Checking,1470,Shopping,2018-07-02,Return Of Goods,,Return of Goods8,Shopping,False,,Credit
+857,4_D_D_Checking Account4_D_D_Checking Account,1470,Shopping,2018-07-02,Return Of Goods,,Return of Goods8,Shopping,False,,Credit
+882,4_D_D_Checking Account4_D_D_Checking Account,1500,Income,2018-06-29,Deposit,,Deposit9,Income,False,,Credit
+883,CD %%% Account,1500,Income,2018-06-29,Deposit,,Deposit9,Income,False,,Credit
+884,Business CheckingBusiness Checking,1500,Income,2018-06-29,Deposit,,Deposit9,Income,False,,Credit
+885,Visa,1500,Income,2018-06-29,Deposit,,Deposit9,Income,False,,Credit
+886,LOC Loan,1500,Income,2018-06-29,Deposit,,Deposit9,Income,False,,Credit
+887,Home Loan,1500,Income,2018-06-29,Deposit,,Deposit9,Income,False,,Credit
+888,Auto Loan,1500,Income,2018-06-29,Deposit,,Deposit9,Income,False,,Credit
+889,MasterCard,1500,Income,2018-06-29,Deposit,,Deposit9,Income,False,,Credit
+890,Personal Checking,1500,Income,2018-06-29,Deposit,,Deposit9,Income,False,,Credit
+891,Personal Savings,1500,Income,2018-06-29,Deposit,,Deposit9,Income,False,,Credit
+892,401K Account,1500,Investments,2018-06-29,Deposit,,Deposit9,Investments,False,,Credit
+893,Business Savings,1500,Income,2018-06-29,Deposit,,Deposit9,Income,False,,Credit
+918,4_D_D_Checking Account4_D_D_Checking Account,1590,Shopping,2018-06-26,Return Of Goods,,Return of Goods9,Shopping,False,,Credit
+919,CD %%% Account,1590,Shopping,2018-06-26,Return Of Goods,,Return of Goods9,Shopping,False,,Credit
+920,Visa,1590,Shopping,2018-06-26,Return Of Goods,,Return of Goods9,Shopping,False,,Credit
+921,Auto Loan,1590,Shopping,2018-06-26,Return Of Goods,,Return of Goods9,Shopping,False,,Credit
+922,Business Savings,1590,Shopping,2018-06-26,Return Of Goods,,Return of Goods9,Shopping,False,,Credit
+923,401K Account,1590,Investments,2018-06-26,Return Of Goods,,Return of Goods9,Investments,False,,Credit
+924,MasterCard,1590,Shopping,2018-06-26,Return Of Goods,,Return of Goods9,Shopping,False,,Credit
+925,Personal Checking,1590,Shopping,2018-06-26,Return Of Goods,,Return of Goods9,Shopping,False,,Credit
+926,Business CheckingBusiness Checking,1590,Shopping,2018-06-26,Return Of Goods,,Return of Goods9,Shopping,False,,Credit
+927,Home Loan,1590,Shopping,2018-06-26,Return Of Goods,,Return of Goods9,Shopping,False,,Credit
+928,LOC Loan,1590,Shopping,2018-06-26,Return Of Goods,,Return of Goods9,Shopping,False,,Credit
+929,Personal Savings,1590,Shopping,2018-06-26,Return Of Goods,,Return of Goods9,Shopping,False,,Credit
+954,CD %%% Account,1620,Income,2018-06-23,Deposit,,Deposit10,Income,False,,Credit
+955,401K Account,1620,Investments,2018-06-23,Deposit,,Deposit10,Investments,False,,Credit
+956,Auto Loan,1620,Income,2018-06-23,Deposit,,Deposit10,Income,False,,Credit
+957,Visa,1620,Income,2018-06-23,Deposit,,Deposit10,Income,False,,Credit
+958,Personal Savings,1620,Income,2018-06-23,Deposit,,Deposit10,Income,False,,Credit
+959,4_D_D_Checking Account4_D_D_Checking Account,1620,Income,2018-06-23,Deposit,,Deposit10,Income,False,,Credit
+960,Business CheckingBusiness Checking,1620,Income,2018-06-23,Deposit,,Deposit10,Income,False,,Credit
+961,Personal Checking,1620,Income,2018-06-23,Deposit,,Deposit10,Income,False,,Credit
+962,Business Savings,1620,Income,2018-06-23,Deposit,,Deposit10,Income,False,,Credit
+963,MasterCard,1620,Income,2018-06-23,Deposit,,Deposit10,Income,False,,Credit
+964,Home Loan,1620,Income,2018-06-23,Deposit,,Deposit10,Income,False,,Credit
+965,LOC Loan,1620,Income,2018-06-23,Deposit,,Deposit10,Income,False,,Credit
+990,MasterCard,1740,Shopping,2018-06-20,Return Of Goods,,Return of Goods10,Shopping,False,,Credit
+991,Business Savings,1740,Shopping,2018-06-20,Return Of Goods,,Return of Goods10,Shopping,False,,Credit
+992,401K Account,1740,Investments,2018-06-20,Return Of Goods,,Return of Goods10,Investments,False,,Credit
+993,Personal Checking,1740,Shopping,2018-06-20,Return Of Goods,,Return of Goods10,Shopping,False,,Credit
+994,Business CheckingBusiness Checking,1740,Shopping,2018-06-20,Return Of Goods,,Return of Goods10,Shopping,False,,Credit
+995,Auto Loan,1740,Shopping,2018-06-20,Return Of Goods,,Return of Goods10,Shopping,False,,Credit
+996,Visa,1740,Shopping,2018-06-20,Return Of Goods,,Return of Goods10,Shopping,False,,Credit
+997,Home Loan,1740,Shopping,2018-06-20,Return Of Goods,,Return of Goods10,Shopping,False,,Credit
+998,4_D_D_Checking Account4_D_D_Checking Account,1740,Shopping,2018-06-20,Return Of Goods,,Return of Goods10,Shopping,False,,Credit
+999,Personal Savings,1740,Shopping,2018-06-20,Return Of Goods,,Return of Goods10,Shopping,False,,Credit
+1000,CD %%% Account,1740,Shopping,2018-06-20,Return Of Goods,,Return of Goods10,Shopping,False,,Credit
+1001,LOC Loan,1740,Shopping,2018-06-20,Return Of Goods,,Return of Goods10,Shopping,False,,Credit
+1026,Personal Savings,1980,Income,2018-06-17,Deposit,,Deposit11,Income,False,,Credit
+1027,401K Account,1980,Investments,2018-06-17,Deposit,,Deposit11,Investments,False,,Credit
+1028,Business Savings,1980,Income,2018-06-17,Deposit,,Deposit11,Income,False,,Credit
+1029,LOC Loan,1980,Income,2018-06-17,Deposit,,Deposit11,Income,False,,Credit
+1030,Personal Checking,1980,Income,2018-06-17,Deposit,,Deposit11,Income,False,,Credit
+1031,Home Loan,1980,Income,2018-06-17,Deposit,,Deposit11,Income,False,,Credit
+1032,Auto Loan,1980,Income,2018-06-17,Deposit,,Deposit11,Income,False,,Credit
+1033,Visa,1980,Income,2018-06-17,Deposit,,Deposit11,Income,False,,Credit
+1034,CD %%% Account,1980,Income,2018-06-17,Deposit,,Deposit11,Income,False,,Credit
+1035,4_D_D_Checking Account4_D_D_Checking Account,1980,Income,2018-06-17,Deposit,,Deposit11,Income,False,,Credit
+1036,Business CheckingBusiness Checking,1980,Income,2018-06-17,Deposit,,Deposit11,Income,False,,Credit
+1037,MasterCard,1980,Income,2018-06-17,Deposit,,Deposit11,Income,False,,Credit
+1062,Personal Checking,1860,Shopping,2018-06-14,Return Of Goods,,Return of Goods11,Shopping,False,,Credit
+1063,Business Savings,1860,Shopping,2018-06-14,Return Of Goods,,Return of Goods11,Shopping,False,,Credit
+1064,Business CheckingBusiness Checking,1860,Shopping,2018-06-14,Return Of Goods,,Return of Goods11,Shopping,False,,Credit
+1065,Visa,1860,Shopping,2018-06-14,Return Of Goods,,Return of Goods11,Shopping,False,,Credit
+1066,4_D_D_Checking Account4_D_D_Checking Account,1860,Shopping,2018-06-14,Return Of Goods,,Return of Goods11,Shopping,False,,Credit
+1067,Personal Savings,1860,Shopping,2018-06-14,Return Of Goods,,Return of Goods11,Shopping,False,,Credit
+1068,LOC Loan,1860,Shopping,2018-06-14,Return Of Goods,,Return of Goods11,Shopping,False,,Credit
+1069,MasterCard,1860,Shopping,2018-06-14,Return Of Goods,,Return of Goods11,Shopping,False,,Credit
+1070,Auto Loan,1860,Shopping,2018-06-14,Return Of Goods,,Return of Goods11,Shopping,False,,Credit
+1071,CD %%% Account,1860,Shopping,2018-06-14,Return Of Goods,,Return of Goods11,Shopping,False,,Credit
+1072,Home Loan,1860,Shopping,2018-06-14,Return Of Goods,,Return of Goods11,Shopping,False,,Credit
+1073,401K Account,1860,Investments,2018-06-14,Return Of Goods,,Return of Goods11,Investments,False,,Credit
+1098,Visa,2070,Income,2018-06-11,Deposit,,Deposit12,Income,False,,Credit
+1099,Personal Checking,2070,Income,2018-06-11,Deposit,,Deposit12,Income,False,,Credit
+1100,Home Loan,2070,Income,2018-06-11,Deposit,,Deposit12,Income,False,,Credit
+1101,Personal Savings,2070,Income,2018-06-11,Deposit,,Deposit12,Income,False,,Credit
+1102,4_D_D_Checking Account4_D_D_Checking Account,2070,Income,2018-06-11,Deposit,,Deposit12,Income,False,,Credit
+1103,Auto Loan,2070,Income,2018-06-11,Deposit,,Deposit12,Income,False,,Credit
+1104,401K Account,2070,Investments,2018-06-11,Deposit,,Deposit12,Investments,False,,Credit
+1105,MasterCard,2070,Income,2018-06-11,Deposit,,Deposit12,Income,False,,Credit
+1106,LOC Loan,2070,Income,2018-06-11,Deposit,,Deposit12,Income,False,,Credit
+1107,CD %%% Account,2070,Income,2018-06-11,Deposit,,Deposit12,Income,False,,Credit
+1108,Business Savings,2070,Income,2018-06-11,Deposit,,Deposit12,Income,False,,Credit
+1109,Business CheckingBusiness Checking,2070,Income,2018-06-11,Deposit,,Deposit12,Income,False,,Credit
+1134,Business CheckingBusiness Checking,2130,Shopping,2018-06-08,Return Of Goods,,Return of Goods12,Shopping,False,,Credit
+1135,Personal Savings,2130,Shopping,2018-06-08,Return Of Goods,,Return of Goods12,Shopping,False,,Credit
+1136,LOC Loan,2130,Shopping,2018-06-08,Return Of Goods,,Return of Goods12,Shopping,False,,Credit
+1137,Auto Loan,2130,Shopping,2018-06-08,Return Of Goods,,Return of Goods12,Shopping,False,,Credit
+1138,CD %%% Account,2130,Shopping,2018-06-08,Return Of Goods,,Return of Goods12,Shopping,False,,Credit
+1139,4_D_D_Checking Account4_D_D_Checking Account,2130,Shopping,2018-06-08,Return Of Goods,,Return of Goods12,Shopping,False,,Credit
+1140,401K Account,2130,Investments,2018-06-08,Return Of Goods,,Return of Goods12,Investments,False,,Credit
+1141,Business Savings,2130,Shopping,2018-06-08,Return Of Goods,,Return of Goods12,Shopping,False,,Credit
+1142,Personal Checking,2130,Shopping,2018-06-08,Return Of Goods,,Return of Goods12,Shopping,False,,Credit
+1143,Home Loan,2130,Shopping,2018-06-08,Return Of Goods,,Return of Goods12,Shopping,False,,Credit
+1144,MasterCard,2130,Shopping,2018-06-08,Return Of Goods,,Return of Goods12,Shopping,False,,Credit
+1145,Visa,2130,Shopping,2018-06-08,Return Of Goods,,Return of Goods12,Shopping,False,,Credit
+0,Visa,50,Uncategorized,2018-10-29,Insufficient Funds Charge,Transactions,Insufficient Funds Charge1,Uncategorized,False,,Debit
+1,4_D_D_Checking Account4_D_D_Checking Account,50,Uncategorized,2018-10-29,Insufficient Funds Charge,Transactions,Insufficient Funds Charge1,Uncategorized,False,,Debit
+2,LOC Loan,50,Uncategorized,2018-10-29,Insufficient Funds Charge,Transactions,Insufficient Funds Charge1,Uncategorized,False,,Debit
+3,Personal Savings,50,Uncategorized,2018-10-29,Insufficient Funds Charge,Transactions,Insufficient Funds Charge1,Uncategorized,False,,Debit
+4,Home Loan,50,Uncategorized,2018-10-29,Insufficient Funds Charge,Transactions,Insufficient Funds Charge1,Uncategorized,False,,Debit
+5,Business CheckingBusiness Checking,50,Uncategorized,2018-10-29,Insufficient Funds Charge,Transactions,Insufficient Funds Charge1,Uncategorized,False,,Debit
+6,Business Savings,50,Uncategorized,2018-10-29,Insufficient Funds Charge,Transactions,Insufficient Funds Charge1,Uncategorized,False,,Debit
+7,401K Account,50,Investments,2018-10-29,Insufficient Funds Charge,Transactions,Insufficient Funds Charge1,Investments,False,,Debit
+8,CD %%% Account,50,Uncategorized,2018-10-29,Insufficient Funds Charge,Transactions,Insufficient Funds Charge1,Uncategorized,False,,Debit
+9,Auto Loan,50,Uncategorized,2018-10-29,Insufficient Funds Charge,Transactions,Insufficient Funds Charge1,Uncategorized,False,,Debit
+10,MasterCard,50,Uncategorized,2018-10-29,Insufficient Funds Charge,Transactions,Insufficient Funds Charge1,Uncategorized,False,,Debit
+11,4_D_D_Checking Account4_D_D_Checking Account,80,Uncategorized,2018-10-28,New Transaction Payee Null,Transactions,NEW Transaction-payee null,Uncategorized,False,,Debit
+12,MasterCard,80,Uncategorized,2018-10-28,New Transaction Payee Null,Transactions,NEW Transaction-payee null,Uncategorized,False,,Debit
+13,Visa,80,Uncategorized,2018-10-28,New Transaction Payee Null,Transactions,NEW Transaction-payee null,Uncategorized,False,,Debit
+14,401K Account,80,Investments,2018-10-28,New Transaction Payee Null,Transactions,NEW Transaction-payee null,Investments,False,,Debit
+15,CD %%% Account,80,Uncategorized,2018-10-28,New Transaction Payee Null,Transactions,NEW Transaction-payee null,Uncategorized,False,,Debit
+16,Auto Loan,80,Uncategorized,2018-10-28,New Transaction Payee Null,Transactions,NEW Transaction-payee null,Uncategorized,False,,Debit
+17,Home Loan,80,Uncategorized,2018-10-28,New Transaction Payee Null,Transactions,NEW Transaction-payee null,Uncategorized,False,,Debit
+18,Business Savings,80,Uncategorized,2018-10-28,New Transaction Payee Null,Transactions,NEW Transaction-payee null,Uncategorized,False,,Debit
+19,LOC Loan,80,Uncategorized,2018-10-28,New Transaction Payee Null,Transactions,NEW Transaction-payee null,Uncategorized,False,,Debit
+20,Business CheckingBusiness Checking,80,Uncategorized,2018-10-28,New Transaction Payee Null,Transactions,NEW Transaction-payee null,Uncategorized,False,,Debit
+21,Personal Savings,80,Uncategorized,2018-10-28,New Transaction Payee Null,Transactions,NEW Transaction-payee null,Uncategorized,False,,Debit
+33,Auto Loan,90,Home,2018-10-26,Automatic Debit Memo,Memo2,Automatic Debit2 / Memo2,Home,False,,Debit
+34,Business CheckingBusiness Checking,90,Home,2018-10-26,Automatic Debit Memo,Memo2,Automatic Debit2 / Memo2,Home,False,,Debit
+35,CD %%% Account,90,Home,2018-10-26,Automatic Debit Memo,Memo2,Automatic Debit2 / Memo2,Home,False,,Debit
+36,Home Loan,90,Home,2018-10-26,Automatic Debit Memo,Memo2,Automatic Debit2 / Memo2,Home,False,,Debit
+37,MasterCard,90,Home,2018-10-26,Automatic Debit Memo,Memo2,Automatic Debit2 / Memo2,Home,False,,Debit
+38,401K Account,90,Investments,2018-10-26,Automatic Debit Memo,Memo2,Automatic Debit2 / Memo2,Investments,False,,Debit
+39,LOC Loan,90,Home,2018-10-26,Automatic Debit Memo,Memo2,Automatic Debit2 / Memo2,Home,False,,Debit
+40,4_D_D_Checking Account4_D_D_Checking Account,90,Home,2018-10-26,Automatic Debit Memo,Memo2,Automatic Debit2 / Memo2,Home,False,,Debit
+41,Visa,90,Home,2018-10-26,Automatic Debit Memo,Memo2,Automatic Debit2 / Memo2,Home,False,,Debit
+42,Business Savings,90,Home,2018-10-26,Automatic Debit Memo,Memo2,Automatic Debit2 / Memo2,Home,False,,Debit
+43,Personal Savings,90,Home,2018-10-26,Automatic Debit Memo,Memo2,Automatic Debit2 / Memo2,Home,False,,Debit
+44,Auto Loan,110,Service Fee,2018-10-25,Service Charge,Transactions,Service Charge2,Fees & Charges,False,,Debit
+45,Business CheckingBusiness Checking,110,Service Fee,2018-10-25,Service Charge,Transactions,Service Charge2,Fees & Charges,False,,Debit
+46,Visa,110,Service Fee,2018-10-25,Service Charge,Transactions,Service Charge2,Fees & Charges,False,,Debit
+47,CD %%% Account,110,Service Fee,2018-10-25,Service Charge,Transactions,Service Charge2,Fees & Charges,False,,Debit
+48,401K Account,110,Service Fee,2018-10-25,Service Charge,Transactions,Service Charge2,Fees & Charges,False,,Debit
+49,Business Savings,110,Service Fee,2018-10-25,Service Charge,Transactions,Service Charge2,Fees & Charges,False,,Debit
+50,4_D_D_Checking Account4_D_D_Checking Account,110,Service Fee,2018-10-25,Service Charge,Transactions,Service Charge2,Fees & Charges,False,,Debit
+51,Personal Savings,110,Service Fee,2018-10-25,Service Charge,Transactions,Service Charge2,Fees & Charges,False,,Debit
+52,MasterCard,110,Service Fee,2018-10-25,Service Charge,Transactions,Service Charge2,Fees & Charges,False,,Debit
+53,Home Loan,110,Service Fee,2018-10-25,Service Charge,Transactions,Service Charge2,Fees & Charges,False,,Debit
+54,LOC Loan,110,Service Fee,2018-10-25,Service Charge,Transactions,Service Charge2,Fees & Charges,False,,Debit
+55,Home Loan,120,Uncategorized,2018-10-23,Insufficient Funds Charge,Transactions,Insufficient Funds Charge2,Uncategorized,False,,Debit
+56,Business Savings,120,Uncategorized,2018-10-23,Insufficient Funds Charge,Transactions,Insufficient Funds Charge2,Uncategorized,False,,Debit
+57,LOC Loan,120,Uncategorized,2018-10-23,Insufficient Funds Charge,Transactions,Insufficient Funds Charge2,Uncategorized,False,,Debit
+58,MasterCard,120,Uncategorized,2018-10-23,Insufficient Funds Charge,Transactions,Insufficient Funds Charge2,Uncategorized,False,,Debit
+59,Business CheckingBusiness Checking,120,Uncategorized,2018-10-23,Insufficient Funds Charge,Transactions,Insufficient Funds Charge2,Uncategorized,False,,Debit
+60,Personal Savings,120,Uncategorized,2018-10-23,Insufficient Funds Charge,Transactions,Insufficient Funds Charge2,Uncategorized,False,,Debit
+61,Auto Loan,120,Uncategorized,2018-10-23,Insufficient Funds Charge,Transactions,Insufficient Funds Charge2,Uncategorized,False,,Debit
+62,Visa,120,Uncategorized,2018-10-23,Insufficient Funds Charge,Transactions,Insufficient Funds Charge2,Uncategorized,False,,Debit
+63,4_D_D_Checking Account4_D_D_Checking Account,120,Uncategorized,2018-10-23,Insufficient Funds Charge,Transactions,Insufficient Funds Charge2,Uncategorized,False,,Debit
+64,CD %%% Account,120,Uncategorized,2018-10-23,Insufficient Funds Charge,Transactions,Insufficient Funds Charge2,Uncategorized,False,,Debit
+65,401K Account,120,Investments,2018-10-23,Insufficient Funds Charge,Transactions,Insufficient Funds Charge2,Investments,False,,Debit
+66,Home Loan,100,Uncategorized,2018-10-22,Memo,Memo3,Withdrawal3 / Memo3,Uncategorized,False,,Debit
+67,Personal Savings,100,Uncategorized,2018-10-22,Memo,Memo3,Withdrawal3 / Memo3,Uncategorized,False,,Debit
+68,401K Account,100,Investments,2018-10-22,Memo,Memo3,Withdrawal3 / Memo3,Investments,False,,Debit
+69,Auto Loan,100,Uncategorized,2018-10-22,Memo,Memo3,Withdrawal3 / Memo3,Uncategorized,False,,Debit
+70,Visa,100,Uncategorized,2018-10-22,Memo,Memo3,Withdrawal3 / Memo3,Uncategorized,False,,Debit
+71,LOC Loan,100,Uncategorized,2018-10-22,Memo,Memo3,Withdrawal3 / Memo3,Uncategorized,False,,Debit
+72,Business CheckingBusiness Checking,100,Uncategorized,2018-10-22,Memo,Memo3,Withdrawal3 / Memo3,Uncategorized,False,,Debit
+73,CD %%% Account,100,Uncategorized,2018-10-22,Memo,Memo3,Withdrawal3 / Memo3,Uncategorized,False,,Debit
+74,4_D_D_Checking Account4_D_D_Checking Account,100,Uncategorized,2018-10-22,Memo,Memo3,Withdrawal3 / Memo3,Uncategorized,False,,Debit
+75,Business Savings,100,Uncategorized,2018-10-22,Memo,Memo3,Withdrawal3 / Memo3,Uncategorized,False,,Debit
+76,MasterCard,100,Uncategorized,2018-10-22,Memo,Memo3,Withdrawal3 / Memo3,Uncategorized,False,,Debit
+88,4_D_D_Checking Account4_D_D_Checking Account,170,Auto & Transport,2018-10-20,Automatic Debit #3821,Check,Automatic Debit3,Auto & Transport,False,,Debit
+89,Business CheckingBusiness Checking,170,Auto & Transport,2018-10-20,Automatic Debit #3821,Check,Automatic Debit3,Auto & Transport,False,,Debit
+90,Business Savings,170,Auto & Transport,2018-10-20,Automatic Debit,Check,Automatic Debit3,Auto & Transport,False,,Debit
+91,401K Account,170,Investments,2018-10-20,Automatic Debit,Check,Automatic Debit3,Investments,False,,Debit
+92,LOC Loan,170,Auto & Transport,2018-10-20,Automatic Debit,Check,Automatic Debit3,Auto & Transport,False,,Debit
+93,Visa,170,Auto & Transport,2018-10-20,Automatic Debit,Check,Automatic Debit3,Auto & Transport,False,,Debit
+94,Personal Savings,170,Auto & Transport,2018-10-20,Automatic Debit,Check,Automatic Debit3,Auto & Transport,False,,Debit
+95,MasterCard,170,Auto & Transport,2018-10-20,Automatic Debit,Check,Automatic Debit3,Auto & Transport,False,,Debit
+96,Home Loan,170,Auto & Transport,2018-10-20,Automatic Debit,Check,Automatic Debit3,Auto & Transport,False,,Debit
+97,Auto Loan,170,Auto & Transport,2018-10-20,Automatic Debit,Check,Automatic Debit3,Auto & Transport,False,,Debit
+98,CD %%% Account,170,Auto & Transport,2018-10-20,Automatic Debit,Check,Automatic Debit3,Auto & Transport,False,,Debit
+99,Business CheckingBusiness Checking,150,Service Fee,2018-10-19,Service Charge,Transactions,Service Charge3,Fees & Charges,False,,Debit
+100,Auto Loan,150,Service Fee,2018-10-19,Service Charge,Transactions,Service Charge3,Fees & Charges,False,,Debit
+101,Personal Savings,150,Service Fee,2018-10-19,Service Charge,Transactions,Service Charge3,Fees & Charges,False,,Debit
+102,4_D_D_Checking Account4_D_D_Checking Account,150,Service Fee,2018-10-19,Service Charge,Transactions,Service Charge3,Fees & Charges,False,,Debit
+103,Business Savings,150,Service Fee,2018-10-19,Service Charge,Transactions,Service Charge3,Fees & Charges,False,,Debit
+104,MasterCard,150,Service Fee,2018-10-19,Service Charge,Transactions,Service Charge3,Fees & Charges,False,,Debit
+105,CD %%% Account,150,Service Fee,2018-10-19,Service Charge,Transactions,Service Charge3,Fees & Charges,False,,Debit
+106,Home Loan,150,Service Fee,2018-10-19,Service Charge,Transactions,Service Charge3,Fees & Charges,False,,Debit
+107,LOC Loan,150,Service Fee,2018-10-19,Service Charge,Transactions,Service Charge3,Fees & Charges,False,,Debit
+108,Visa,150,Service Fee,2018-10-19,Service Charge,Transactions,Service Charge3,Fees & Charges,False,,Debit
+109,401K Account,150,Service Fee,2018-10-19,Service Charge,Transactions,Service Charge3,Fees & Charges,False,,Debit
+121,MasterCard,190,Uncategorized,2018-10-17,Insufficient Funds Charge,Transactions,Insufficient Funds Charge3,Uncategorized,False,,Debit
+122,CD %%% Account,190,Uncategorized,2018-10-17,Insufficient Funds Charge,Transactions,Insufficient Funds Charge3,Uncategorized,False,,Debit
+123,LOC Loan,190,Uncategorized,2018-10-17,Insufficient Funds Charge,Transactions,Insufficient Funds Charge3,Uncategorized,False,,Debit
+124,401K Account,190,Investments,2018-10-17,Insufficient Funds Charge,Transactions,Insufficient Funds Charge3,Investments,False,,Debit
+125,Business Savings,190,Uncategorized,2018-10-17,Insufficient Funds Charge,Transactions,Insufficient Funds Charge3,Uncategorized,False,,Debit
+126,Visa,190,Uncategorized,2018-10-17,Insufficient Funds Charge,Transactions,Insufficient Funds Charge3,Uncategorized,False,,Debit
+127,4_D_D_Checking Account4_D_D_Checking Account,190,Uncategorized,2018-10-17,Insufficient Funds Charge,Transactions,Insufficient Funds Charge3,Uncategorized,False,,Debit
+128,Auto Loan,190,Uncategorized,2018-10-17,Insufficient Funds Charge,Transactions,Insufficient Funds Charge3,Uncategorized,False,,Debit
+129,Personal Savings,190,Uncategorized,2018-10-17,Insufficient Funds Charge,Transactions,Insufficient Funds Charge3,Uncategorized,False,,Debit
+130,Home Loan,190,Uncategorized,2018-10-17,Insufficient Funds Charge,Transactions,Insufficient Funds Charge3,Uncategorized,False,,Debit
+131,Business CheckingBusiness Checking,190,Uncategorized,2018-10-17,Insufficient Funds Charge,Transactions,Insufficient Funds Charge3,Uncategorized,False,,Debit
+132,CD %%% Account,200,Uncategorized,2018-10-16,Withdrawal4,Transactions,Withdrawal4,Uncategorized,False,,Debit
+133,LOC Loan,200,Uncategorized,2018-10-16,Withdrawal4,Transactions,Withdrawal4,Uncategorized,False,,Debit
+134,Business Savings,200,Uncategorized,2018-10-16,Withdrawal4,Transactions,Withdrawal4,Uncategorized,False,,Debit
+135,MasterCard,200,Uncategorized,2018-10-16,Withdrawal4,Transactions,Withdrawal4,Uncategorized,False,,Debit
+136,4_D_D_Checking Account4_D_D_Checking Account,200,Uncategorized,2018-10-16,Withdrawal4,Transactions,Withdrawal4,Uncategorized,False,,Debit
+137,401K Account,200,Investments,2018-10-16,Withdrawal4,Transactions,Withdrawal4,Investments,False,,Debit
+138,Home Loan,200,Uncategorized,2018-10-16,Withdrawal4,Transactions,Withdrawal4,Uncategorized,False,,Debit
+139,Auto Loan,200,Uncategorized,2018-10-16,Withdrawal4,Transactions,Withdrawal4,Uncategorized,False,,Debit
+140,Personal Savings,200,Uncategorized,2018-10-16,Withdrawal4,Transactions,Withdrawal4,Uncategorized,False,,Debit
+141,Business CheckingBusiness Checking,200,Uncategorized,2018-10-16,Withdrawal4,Transactions,Withdrawal4,Uncategorized,False,,Debit
+142,Visa,200,Uncategorized,2018-10-16,Withdrawal4,Transactions,Withdrawal4,Uncategorized,False,,Debit
+154,Personal Savings,250,Service Fee,2018-10-13,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+155,LOC Loan,250,Service Fee,2018-10-13,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+156,401K Account,250,Service Fee,2018-10-13,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+157,4_D_D_Checking Account4_D_D_Checking Account,250,Service Fee,2018-10-13,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+158,Home Loan,250,Service Fee,2018-10-13,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+159,CD %%% Account,250,Service Fee,2018-10-13,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+160,MasterCard,250,Service Fee,2018-10-13,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+161,Business CheckingBusiness Checking,250,Service Fee,2018-10-13,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+162,Business Savings,250,Service Fee,2018-10-13,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+163,Personal Checking,250,Service Fee,2018-10-13,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+164,Visa,250,Service Fee,2018-10-13,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+165,Auto Loan,250,Service Fee,2018-10-13,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+166,Business Savings,250,Service Fee,2018-09-30,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+167,CD %%% Account,250,Service Fee,2018-09-30,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+168,Visa,250,Service Fee,2018-09-30,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+169,Business CheckingBusiness Checking,250,Service Fee,2018-09-30,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+170,4_D_D_Checking Account4_D_D_Checking Account,250,Service Fee,2018-09-30,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+171,Auto Loan,250,Service Fee,2018-09-30,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+172,LOC Loan,250,Service Fee,2018-09-30,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+173,Personal Checking,250,Service Fee,2018-09-30,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+174,401K Account,250,Service Fee,2018-09-30,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+175,Home Loan,250,Service Fee,2018-09-30,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+176,MasterCard,250,Service Fee,2018-09-30,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+177,Personal Savings,250,Service Fee,2018-09-30,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+178,Visa,250,Service Fee,2018-09-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+179,401K Account,250,Service Fee,2018-09-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+180,Personal Savings,250,Service Fee,2018-09-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+181,Personal Checking,250,Service Fee,2018-09-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+182,4_D_D_Checking Account4_D_D_Checking Account,250,Service Fee,2018-09-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+183,Business CheckingBusiness Checking,250,Service Fee,2018-09-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+184,Home Loan,250,Service Fee,2018-09-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+185,Business Savings,250,Service Fee,2018-09-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+186,LOC Loan,250,Service Fee,2018-09-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+187,MasterCard,250,Service Fee,2018-09-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+188,Auto Loan,250,Service Fee,2018-09-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+189,CD %%% Account,250,Service Fee,2018-09-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+190,Home Loan,250,Service Fee,2018-09-14,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+191,MasterCard,250,Service Fee,2018-09-14,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+192,LOC Loan,250,Service Fee,2018-09-14,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+193,4_D_D_Checking Account4_D_D_Checking Account,250,Service Fee,2018-09-14,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+194,Personal Checking,250,Service Fee,2018-09-14,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+195,Business Savings,250,Service Fee,2018-09-14,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+196,Auto Loan,250,Service Fee,2018-09-14,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+197,Personal Savings,250,Service Fee,2018-09-14,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+198,Business CheckingBusiness Checking,250,Service Fee,2018-09-14,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+199,401K Account,250,Service Fee,2018-09-14,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+200,Visa,250,Service Fee,2018-09-14,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+201,CD %%% Account,250,Service Fee,2018-09-14,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+202,Visa,250,Service Fee,2018-09-10,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+203,Business Savings,250,Service Fee,2018-09-10,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+204,Personal Savings,250,Service Fee,2018-09-10,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+205,Auto Loan,250,Service Fee,2018-09-10,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+206,401K Account,250,Service Fee,2018-09-10,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+207,MasterCard,250,Service Fee,2018-09-10,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+208,4_D_D_Checking Account4_D_D_Checking Account,250,Service Fee,2018-09-10,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+209,Home Loan,250,Service Fee,2018-09-10,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+210,CD %%% Account,250,Service Fee,2018-09-10,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+211,Business CheckingBusiness Checking,250,Service Fee,2018-09-10,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+212,Personal Checking,250,Service Fee,2018-09-10,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+213,LOC Loan,250,Service Fee,2018-09-10,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+214,MasterCard,250,Service Fee,2018-09-03,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+215,CD %%% Account,250,Service Fee,2018-09-03,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+216,Auto Loan,250,Service Fee,2018-09-03,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+217,Personal Checking,250,Service Fee,2018-09-03,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+218,Business Savings,250,Service Fee,2018-09-03,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+219,LOC Loan,250,Service Fee,2018-09-03,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+220,Business CheckingBusiness Checking,250,Service Fee,2018-09-03,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+221,4_D_D_Checking Account4_D_D_Checking Account,250,Service Fee,2018-09-03,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+222,Visa,250,Service Fee,2018-09-03,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+223,Personal Savings,250,Service Fee,2018-09-03,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+224,401K Account,250,Service Fee,2018-09-03,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+225,Home Loan,250,Service Fee,2018-09-03,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+238,Personal Savings,230,Uncategorized,2018-09-01,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+239,401K Account,230,Investments,2018-09-01,Insufficient Funds Charge,,Insufficient Funds Charge4,Investments,False,,Debit
+240,Home Loan,230,Uncategorized,2018-09-01,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+241,Visa,230,Uncategorized,2018-09-01,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+242,Business Savings,230,Uncategorized,2018-09-01,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+243,Personal Checking,230,Uncategorized,2018-09-01,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+244,Auto Loan,230,Uncategorized,2018-09-01,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+245,4_D_D_Checking Account4_D_D_Checking Account,230,Uncategorized,2018-09-01,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+246,CD %%% Account,230,Uncategorized,2018-09-01,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+247,Business CheckingBusiness Checking,230,Uncategorized,2018-09-01,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+248,MasterCard,230,Uncategorized,2018-09-01,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+249,LOC Loan,230,Uncategorized,2018-09-01,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+250,4_D_D_Checking Account4_D_D_Checking Account,240,Uncategorized,2018-08-31,#1001,,Withdrawal5,Uncategorized,False,,Debit
+251,Personal Checking,240,Uncategorized,2018-08-31,#1001,,Withdrawal5,Uncategorized,False,,Debit
+252,Business CheckingBusiness Checking,240,Uncategorized,2018-08-31,#1001,,Withdrawal5,Uncategorized,False,,Debit
+253,CD %%% Account,240,Uncategorized,2018-08-31,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+254,MasterCard,240,Uncategorized,2018-08-31,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+255,Business Savings,240,Uncategorized,2018-08-31,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+256,Auto Loan,240,Uncategorized,2018-08-31,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+257,Personal Savings,240,Uncategorized,2018-08-31,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+258,LOC Loan,240,Uncategorized,2018-08-31,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+259,Visa,240,Uncategorized,2018-08-31,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+260,Home Loan,240,Uncategorized,2018-08-31,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+261,401K Account,240,Investments,2018-08-31,Withdrawal5,,Withdrawal5,Investments,False,,Debit
+274,MasterCard,290,Auto & Transport,2018-08-29,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+275,Personal Checking,290,Auto & Transport,2018-08-29,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+276,Auto Loan,290,Auto & Transport,2018-08-29,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+277,Business CheckingBusiness Checking,290,Auto & Transport,2018-08-29,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+278,LOC Loan,290,Auto & Transport,2018-08-29,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+279,Home Loan,290,Auto & Transport,2018-08-29,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+280,Visa,290,Auto & Transport,2018-08-29,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+281,Business Savings,290,Auto & Transport,2018-08-29,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+282,CD %%% Account,290,Auto & Transport,2018-08-29,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+283,401K Account,290,Investments,2018-08-29,Automatic Debit,,Automatic Debit5,Investments,False,,Debit
+284,4_D_D_Checking Account4_D_D_Checking Account,290,Auto & Transport,2018-08-29,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+285,Personal Savings,290,Auto & Transport,2018-08-29,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+298,4_D_D_Checking Account4_D_D_Checking Account,300,Uncategorized,2018-08-26,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+299,Home Loan,300,Uncategorized,2018-08-26,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+300,Visa,300,Uncategorized,2018-08-26,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+301,MasterCard,300,Uncategorized,2018-08-26,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+302,CD %%% Account,300,Uncategorized,2018-08-26,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+303,Auto Loan,300,Uncategorized,2018-08-26,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+304,401K Account,300,Investments,2018-08-26,Insufficient Funds Charge,,Insufficient Funds Charge5,Investments,False,,Debit
+305,Business CheckingBusiness Checking,300,Uncategorized,2018-08-26,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+306,Personal Savings,300,Uncategorized,2018-08-26,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+307,LOC Loan,300,Uncategorized,2018-08-26,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+308,Business Savings,300,Uncategorized,2018-08-26,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+309,Personal Checking,300,Uncategorized,2018-08-26,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+310,CD %%% Account,250,Service Fee,2018-08-24,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+311,Personal Checking,250,Service Fee,2018-08-24,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+312,Home Loan,250,Service Fee,2018-08-24,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+313,Auto Loan,250,Service Fee,2018-08-24,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+314,Business Savings,250,Service Fee,2018-08-24,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+315,LOC Loan,250,Service Fee,2018-08-24,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+316,MasterCard,250,Service Fee,2018-08-24,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+317,4_D_D_Checking Account4_D_D_Checking Account,250,Service Fee,2018-08-24,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+318,Personal Savings,250,Service Fee,2018-08-24,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+319,Business CheckingBusiness Checking,250,Service Fee,2018-08-24,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+320,401K Account,250,Investments,2018-08-24,Service Charge Memo,Memo4,Service Charge4 / Memo4,Investments,False,,Debit
+321,Visa,250,Service Fee,2018-08-24,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+334,CD %%% Account,230,Uncategorized,2018-08-22,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+335,MasterCard,230,Uncategorized,2018-08-22,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+336,LOC Loan,230,Uncategorized,2018-08-22,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+337,Business CheckingBusiness Checking,230,Uncategorized,2018-08-22,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+338,Visa,230,Uncategorized,2018-08-22,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+339,401K Account,230,Investments,2018-08-22,Insufficient Funds Charge,,Insufficient Funds Charge4,Investments,False,,Debit
+340,Personal Savings,230,Uncategorized,2018-08-22,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+341,4_D_D_Checking Account4_D_D_Checking Account,230,Uncategorized,2018-08-22,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+342,Home Loan,230,Uncategorized,2018-08-22,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+343,Auto Loan,230,Uncategorized,2018-08-22,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+344,Personal Checking,230,Uncategorized,2018-08-22,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+345,Business Savings,230,Uncategorized,2018-08-22,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+346,Personal Checking,240,Uncategorized,2018-08-21,#1001,,Withdrawal5,Uncategorized,False,,Debit
+347,4_D_D_Checking Account4_D_D_Checking Account,240,Uncategorized,2018-08-21,#1001,,Withdrawal5,Uncategorized,False,,Debit
+348,Business CheckingBusiness Checking,240,Uncategorized,2018-08-21,#1001,,Withdrawal5,Uncategorized,False,,Debit
+349,Personal Savings,240,Uncategorized,2018-08-21,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+350,LOC Loan,240,Uncategorized,2018-08-21,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+351,Auto Loan,240,Uncategorized,2018-08-21,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+352,Visa,240,Uncategorized,2018-08-21,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+353,CD %%% Account,240,Uncategorized,2018-08-21,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+354,401K Account,240,Investments,2018-08-21,Withdrawal5,,Withdrawal5,Investments,False,,Debit
+355,Business Savings,240,Uncategorized,2018-08-21,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+356,Home Loan,240,Uncategorized,2018-08-21,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+357,MasterCard,240,Uncategorized,2018-08-21,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+358,Home Loan,250,Service Fee,2018-08-19,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+359,4_D_D_Checking Account4_D_D_Checking Account,250,Service Fee,2018-08-19,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+360,401K Account,250,Investments,2018-08-19,Service Charge Memo,Memo4,Service Charge4 / Memo4,Investments,False,,Debit
+361,Business Savings,250,Service Fee,2018-08-19,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+362,CD %%% Account,250,Service Fee,2018-08-19,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+363,Visa,250,Service Fee,2018-08-19,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+364,LOC Loan,250,Service Fee,2018-08-19,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+365,Personal Savings,250,Service Fee,2018-08-19,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+366,Business CheckingBusiness Checking,250,Service Fee,2018-08-19,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+367,Personal Checking,250,Service Fee,2018-08-19,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+368,MasterCard,250,Service Fee,2018-08-19,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+369,Auto Loan,250,Service Fee,2018-08-19,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+370,Personal Savings,250,Service Fee,2018-08-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+371,Home Loan,250,Service Fee,2018-08-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+372,MasterCard,250,Service Fee,2018-08-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+373,CD %%% Account,250,Service Fee,2018-08-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+374,LOC Loan,250,Service Fee,2018-08-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+375,Visa,250,Service Fee,2018-08-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+376,Personal Checking,250,Service Fee,2018-08-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+377,Business CheckingBusiness Checking,250,Service Fee,2018-08-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+378,4_D_D_Checking Account4_D_D_Checking Account,250,Service Fee,2018-08-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+379,Auto Loan,250,Service Fee,2018-08-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+380,Business Savings,250,Service Fee,2018-08-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+381,401K Account,250,Investments,2018-08-17,Service Charge Memo,Memo4,Service Charge4 / Memo4,Investments,False,,Debit
+394,401K Account,230,Investments,2018-08-15,Insufficient Funds Charge,,Insufficient Funds Charge4,Investments,False,,Debit
+395,Personal Savings,230,Uncategorized,2018-08-15,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+396,Business CheckingBusiness Checking,230,Uncategorized,2018-08-15,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+397,Personal Checking,230,Uncategorized,2018-08-15,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+398,4_D_D_Checking Account4_D_D_Checking Account,230,Uncategorized,2018-08-15,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+399,LOC Loan,230,Uncategorized,2018-08-15,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+400,MasterCard,230,Uncategorized,2018-08-15,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+401,Home Loan,230,Uncategorized,2018-08-15,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+402,Visa,230,Uncategorized,2018-08-15,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+403,CD %%% Account,230,Uncategorized,2018-08-15,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+404,Auto Loan,230,Uncategorized,2018-08-15,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+405,Business Savings,230,Uncategorized,2018-08-15,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+406,4_D_D_Checking Account4_D_D_Checking Account,240,Uncategorized,2018-08-14,#1001,,Withdrawal5,Uncategorized,False,,Debit
+407,Personal Checking,240,Uncategorized,2018-08-14,#1001,,Withdrawal5,Uncategorized,False,,Debit
+408,Business CheckingBusiness Checking,240,Uncategorized,2018-08-14,#1001,,Withdrawal5,Uncategorized,False,,Debit
+409,MasterCard,240,Uncategorized,2018-08-14,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+410,Auto Loan,240,Uncategorized,2018-08-14,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+411,Personal Savings,240,Uncategorized,2018-08-14,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+412,401K Account,240,Investments,2018-08-14,Withdrawal5,,Withdrawal5,Investments,False,,Debit
+413,Business Savings,240,Uncategorized,2018-08-14,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+414,Home Loan,240,Uncategorized,2018-08-14,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+415,CD %%% Account,240,Uncategorized,2018-08-14,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+416,LOC Loan,240,Uncategorized,2018-08-14,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+417,Visa,240,Uncategorized,2018-08-14,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+430,Business CheckingBusiness Checking,250,Service Fee,2018-08-12,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+431,MasterCard,250,Service Fee,2018-08-12,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+432,401K Account,250,Investments,2018-08-12,Service Charge Memo,Memo4,Service Charge4 / Memo4,Investments,False,,Debit
+433,4_D_D_Checking Account4_D_D_Checking Account,250,Service Fee,2018-08-12,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+434,Personal Savings,250,Service Fee,2018-08-12,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+435,Visa,250,Service Fee,2018-08-12,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+436,Business Savings,250,Service Fee,2018-08-12,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+437,Home Loan,250,Service Fee,2018-08-12,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+438,Auto Loan,250,Service Fee,2018-08-12,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+439,Personal Checking,250,Service Fee,2018-08-12,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+440,CD %%% Account,250,Service Fee,2018-08-12,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+441,LOC Loan,250,Service Fee,2018-08-12,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+454,Business Savings,230,Uncategorized,2018-08-10,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+455,LOC Loan,230,Uncategorized,2018-08-10,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+456,Home Loan,230,Uncategorized,2018-08-10,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+457,401K Account,230,Investments,2018-08-10,Insufficient Funds Charge,,Insufficient Funds Charge4,Investments,False,,Debit
+458,4_D_D_Checking Account4_D_D_Checking Account,230,Uncategorized,2018-08-10,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+459,Auto Loan,230,Uncategorized,2018-08-10,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+460,Visa,230,Uncategorized,2018-08-10,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+461,Business CheckingBusiness Checking,230,Uncategorized,2018-08-10,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+462,Personal Savings,230,Uncategorized,2018-08-10,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+463,Personal Checking,230,Uncategorized,2018-08-10,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+464,CD %%% Account,230,Uncategorized,2018-08-10,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+465,MasterCard,230,Uncategorized,2018-08-10,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+466,Personal Checking,240,Uncategorized,2018-08-09,#1001,,Withdrawal5,Uncategorized,False,,Debit
+467,4_D_D_Checking Account4_D_D_Checking Account,240,Uncategorized,2018-08-09,#1001,,Withdrawal5,Uncategorized,False,,Debit
+468,Business CheckingBusiness Checking,240,Uncategorized,2018-08-09,#1001,,Withdrawal5,Uncategorized,False,,Debit
+469,401K Account,240,Investments,2018-08-09,Withdrawal5,,Withdrawal5,Investments,False,,Debit
+470,Visa,240,Uncategorized,2018-08-09,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+471,CD %%% Account,240,Uncategorized,2018-08-09,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+472,LOC Loan,240,Uncategorized,2018-08-09,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+473,Home Loan,240,Uncategorized,2018-08-09,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+474,Personal Savings,240,Uncategorized,2018-08-09,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+475,MasterCard,240,Uncategorized,2018-08-09,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+476,Auto Loan,240,Uncategorized,2018-08-09,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+477,Business Savings,240,Uncategorized,2018-08-09,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+490,Auto Loan,290,Auto & Transport,2018-08-07,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+491,Business Savings,290,Auto & Transport,2018-08-07,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+492,MasterCard,290,Auto & Transport,2018-08-07,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+493,LOC Loan,290,Auto & Transport,2018-08-07,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+494,Visa,290,Auto & Transport,2018-08-07,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+495,Business CheckingBusiness Checking,290,Auto & Transport,2018-08-07,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+496,401K Account,290,Investments,2018-08-07,Automatic Debit,,Automatic Debit5,Investments,False,,Debit
+497,Personal Savings,290,Auto & Transport,2018-08-07,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+498,4_D_D_Checking Account4_D_D_Checking Account,290,Auto & Transport,2018-08-07,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+499,Home Loan,290,Auto & Transport,2018-08-07,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+500,Personal Checking,290,Auto & Transport,2018-08-07,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+501,CD %%% Account,290,Auto & Transport,2018-08-07,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+514,CD %%% Account,250,Service Fee,2018-08-04,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+515,401K Account,250,Investments,2018-08-04,Service Charge Memo,Memo4,Service Charge4 / Memo4,Investments,False,,Debit
+516,LOC Loan,250,Service Fee,2018-08-04,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+517,Home Loan,250,Service Fee,2018-08-04,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+518,Visa,250,Service Fee,2018-08-04,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+519,Personal Savings,250,Service Fee,2018-08-04,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+520,Auto Loan,250,Service Fee,2018-08-04,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+521,Personal Checking,250,Service Fee,2018-08-04,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+522,Business Savings,250,Service Fee,2018-08-04,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+523,Business CheckingBusiness Checking,250,Service Fee,2018-08-04,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+524,MasterCard,250,Service Fee,2018-08-04,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+525,4_D_D_Checking Account4_D_D_Checking Account,250,Service Fee,2018-08-04,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+538,Personal Savings,230,Uncategorized,2018-08-02,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+539,Business CheckingBusiness Checking,230,Uncategorized,2018-08-02,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+540,MasterCard,230,Uncategorized,2018-08-02,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+541,401K Account,230,Investments,2018-08-02,Insufficient Funds Charge,,Insufficient Funds Charge4,Investments,False,,Debit
+542,Business Savings,230,Uncategorized,2018-08-02,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+543,4_D_D_Checking Account4_D_D_Checking Account,230,Uncategorized,2018-08-02,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+544,Visa,230,Uncategorized,2018-08-02,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+545,Auto Loan,230,Uncategorized,2018-08-02,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+546,LOC Loan,230,Uncategorized,2018-08-02,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+547,CD %%% Account,230,Uncategorized,2018-08-02,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+548,Personal Checking,230,Uncategorized,2018-08-02,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+549,Home Loan,230,Uncategorized,2018-08-02,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+550,Business Savings,240,Uncategorized,2018-08-01,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+551,401K Account,240,Investments,2018-08-01,Withdrawal5,,Withdrawal5,Investments,False,,Debit
+552,MasterCard,240,Uncategorized,2018-08-01,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+553,Home Loan,240,Uncategorized,2018-08-01,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+554,Auto Loan,240,Uncategorized,2018-08-01,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+555,Personal Savings,240,Uncategorized,2018-08-01,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+556,CD %%% Account,240,Uncategorized,2018-08-01,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+557,LOC Loan,240,Uncategorized,2018-08-01,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+558,Visa,240,Uncategorized,2018-08-01,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+559,Personal Checking,240,Uncategorized,2018-08-01,#1001,,Withdrawal5,Uncategorized,False,,Debit
+560,Business CheckingBusiness Checking,240,Uncategorized,2018-08-01,#1001,,Withdrawal5,Uncategorized,False,,Debit
+561,4_D_D_Checking Account4_D_D_Checking Account,240,Uncategorized,2018-08-01,#1001,,Withdrawal5,Uncategorized,False,,Debit
+574,Personal Savings,290,Auto & Transport,2018-07-30,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+575,Visa,290,Auto & Transport,2018-07-30,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+576,Home Loan,290,Auto & Transport,2018-07-30,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+577,CD %%% Account,290,Auto & Transport,2018-07-30,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+578,Personal Checking,290,Auto & Transport,2018-07-30,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+579,Business CheckingBusiness Checking,290,Auto & Transport,2018-07-30,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+580,LOC Loan,290,Auto & Transport,2018-07-30,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+581,4_D_D_Checking Account4_D_D_Checking Account,290,Auto & Transport,2018-07-30,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+582,Auto Loan,290,Auto & Transport,2018-07-30,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+583,401K Account,290,Investments,2018-07-30,Automatic Debit,,Automatic Debit5,Investments,False,,Debit
+584,Business Savings,290,Auto & Transport,2018-07-30,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+585,MasterCard,290,Auto & Transport,2018-07-30,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+586,Personal Checking,250,Service Fee,2018-07-27,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+587,LOC Loan,250,Service Fee,2018-07-27,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+588,401K Account,250,Investments,2018-07-27,Service Charge Memo,Memo4,Service Charge4 / Memo4,Investments,False,,Debit
+589,Auto Loan,250,Service Fee,2018-07-27,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+590,CD %%% Account,250,Service Fee,2018-07-27,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+591,Home Loan,250,Service Fee,2018-07-27,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+592,Personal Savings,250,Service Fee,2018-07-27,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+593,Business CheckingBusiness Checking,250,Service Fee,2018-07-27,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+594,Business Savings,250,Service Fee,2018-07-27,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+595,Visa,250,Service Fee,2018-07-27,Service Charge Memo,Memo4,Service Charge4 / Memo4,Fees & Charges,False,,Debit
+606,CD %%% Account,230,Uncategorized,2018-07-25,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+607,Business Savings,230,Uncategorized,2018-07-25,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+608,Auto Loan,230,Uncategorized,2018-07-25,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+609,Visa,230,Uncategorized,2018-07-25,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+610,Business CheckingBusiness Checking,230,Uncategorized,2018-07-25,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+611,Personal Checking,230,Uncategorized,2018-07-25,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+612,LOC Loan,230,Uncategorized,2018-07-25,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+613,Home Loan,230,Uncategorized,2018-07-25,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+614,401K Account,230,Investments,2018-07-25,Insufficient Funds Charge,,Insufficient Funds Charge4,Investments,False,,Debit
+615,Personal Savings,230,Uncategorized,2018-07-25,Insufficient Funds Charge,,Insufficient Funds Charge4,Uncategorized,False,,Debit
+616,Personal Checking,240,Uncategorized,2018-07-24,#1001,,Withdrawal5,Uncategorized,False,,Debit
+617,Business CheckingBusiness Checking,240,Uncategorized,2018-07-24,#1001,,Withdrawal5,Uncategorized,False,,Debit
+618,CD %%% Account,240,Uncategorized,2018-07-24,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+619,Personal Savings,240,Uncategorized,2018-07-24,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+620,Home Loan,240,Uncategorized,2018-07-24,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+621,Visa,240,Uncategorized,2018-07-24,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+622,401K Account,240,Investments,2018-07-24,Withdrawal5,,Withdrawal5,Investments,False,,Debit
+623,Auto Loan,240,Uncategorized,2018-07-24,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+624,Business Savings,240,Uncategorized,2018-07-24,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+625,LOC Loan,240,Uncategorized,2018-07-24,Withdrawal5,,Withdrawal5,Uncategorized,False,,Debit
+636,401K Account,290,Investments,2018-07-22,Automatic Debit,,Automatic Debit5,Investments,False,,Debit
+637,Business CheckingBusiness Checking,290,Auto & Transport,2018-07-22,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+638,Auto Loan,290,Auto & Transport,2018-07-22,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+639,Business Savings,290,Auto & Transport,2018-07-22,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+640,Personal Savings,290,Auto & Transport,2018-07-22,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+641,LOC Loan,290,Auto & Transport,2018-07-22,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+642,Home Loan,290,Auto & Transport,2018-07-22,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+643,Visa,290,Auto & Transport,2018-07-22,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+644,Personal Checking,290,Auto & Transport,2018-07-22,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+645,CD %%% Account,290,Auto & Transport,2018-07-22,Automatic Debit,,Automatic Debit5,Auto & Transport,False,,Debit
+656,Business CheckingBusiness Checking,300,Uncategorized,2018-07-19,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+657,Personal Checking,300,Uncategorized,2018-07-19,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+658,Personal Savings,300,Uncategorized,2018-07-19,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+659,Home Loan,300,Uncategorized,2018-07-19,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+660,Auto Loan,300,Uncategorized,2018-07-19,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+661,Visa,300,Uncategorized,2018-07-19,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+662,CD %%% Account,300,Uncategorized,2018-07-19,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+663,LOC Loan,300,Uncategorized,2018-07-19,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+664,401K Account,300,Investments,2018-07-19,Insufficient Funds Charge,,Insufficient Funds Charge5,Investments,False,,Debit
+665,Business Savings,300,Uncategorized,2018-07-19,Insufficient Funds Charge,,Insufficient Funds Charge5,Uncategorized,False,,Debit
+666,401K Account,330,Investments,2018-07-18,Withdrawal6,,Withdrawal6,Investments,False,,Debit
+667,Personal Savings,330,Uncategorized,2018-07-18,Withdrawal6,,Withdrawal6,Uncategorized,False,,Debit
+668,Business CheckingBusiness Checking,330,Uncategorized,2018-07-18,Withdrawal6,,Withdrawal6,Uncategorized,False,,Debit
+669,CD %%% Account,330,Uncategorized,2018-07-18,Withdrawal6,,Withdrawal6,Uncategorized,False,,Debit
+670,Home Loan,330,Uncategorized,2018-07-18,Withdrawal6,,Withdrawal6,Uncategorized,False,,Debit
+671,LOC Loan,330,Uncategorized,2018-07-18,Withdrawal6,,Withdrawal6,Uncategorized,False,,Debit
+672,4_D_D_Checking Account4_D_D_Checking Account,330,Uncategorized,2018-07-18,Withdrawal6,,Withdrawal6,Uncategorized,False,,Debit
+673,Auto Loan,330,Uncategorized,2018-07-18,Withdrawal6,,Withdrawal6,Uncategorized,False,,Debit
+674,Visa,330,Uncategorized,2018-07-18,Withdrawal6,,Withdrawal6,Uncategorized,False,,Debit
+675,MasterCard,330,Uncategorized,2018-07-18,Withdrawal6,,Withdrawal6,Uncategorized,False,,Debit
+676,Personal Checking,330,Uncategorized,2018-07-18,Withdrawal6,,Withdrawal6,Uncategorized,False,,Debit
+677,Business Savings,330,Uncategorized,2018-07-18,Withdrawal6,,Withdrawal6,Uncategorized,False,,Debit
+690,401K Account,350,Investments,2018-07-16,Automatic Debit,,Automatic Debit6,Investments,False,,Debit
+691,Business Savings,350,Auto & Transport,2018-07-16,Automatic Debit,,Automatic Debit6,Auto & Transport,False,,Debit
+692,Auto Loan,350,Auto & Transport,2018-07-16,Automatic Debit,,Automatic Debit6,Auto & Transport,False,,Debit
+693,MasterCard,350,Auto & Transport,2018-07-16,Automatic Debit,,Automatic Debit6,Auto & Transport,False,,Debit
+694,Personal Savings,350,Auto & Transport,2018-07-16,Automatic Debit,,Automatic Debit6,Auto & Transport,False,,Debit
+695,Personal Checking,350,Auto & Transport,2018-07-16,Automatic Debit,,Automatic Debit6,Auto & Transport,False,,Debit
+696,LOC Loan,350,Auto & Transport,2018-07-16,Automatic Debit,,Automatic Debit6,Auto & Transport,False,,Debit
+697,Business CheckingBusiness Checking,350,Auto & Transport,2018-07-16,Automatic Debit,,Automatic Debit6,Auto & Transport,False,,Debit
+698,Home Loan,350,Auto & Transport,2018-07-16,Automatic Debit,,Automatic Debit6,Auto & Transport,False,,Debit
+699,CD %%% Account,350,Auto & Transport,2018-07-16,Automatic Debit,,Automatic Debit6,Auto & Transport,False,,Debit
+700,4_D_D_Checking Account4_D_D_Checking Account,350,Auto & Transport,2018-07-16,Automatic Debit,,Automatic Debit6,Auto & Transport,False,,Debit
+701,Visa,350,Auto & Transport,2018-07-16,Automatic Debit,,Automatic Debit6,Auto & Transport,False,,Debit
+702,401K Account,310,Investments,2018-07-15,Service Charge,,Service Charge6,Investments,False,,Debit
+703,Business Savings,310,Service Fee,2018-07-15,Service Charge,,Service Charge6,Fees & Charges,False,,Debit
+704,MasterCard,310,Service Fee,2018-07-15,Service Charge,,Service Charge6,Fees & Charges,False,,Debit
+705,Home Loan,310,Service Fee,2018-07-15,Service Charge,,Service Charge6,Fees & Charges,False,,Debit
+706,Auto Loan,310,Service Fee,2018-07-15,Service Charge,,Service Charge6,Fees & Charges,False,,Debit
+707,Personal Savings,310,Service Fee,2018-07-15,Service Charge,,Service Charge6,Fees & Charges,False,,Debit
+708,CD %%% Account,310,Service Fee,2018-07-15,Service Charge,,Service Charge6,Fees & Charges,False,,Debit
+709,LOC Loan,310,Service Fee,2018-07-15,Service Charge,,Service Charge6,Fees & Charges,False,,Debit
+710,Visa,310,Service Fee,2018-07-15,Service Charge,,Service Charge6,Fees & Charges,False,,Debit
+711,Personal Checking,310,Service Fee,2018-07-15,Service Charge #8,,Service Charge6,Fees & Charges,False,,Debit
+712,Business CheckingBusiness Checking,310,Service Fee,2018-07-15,Service Charge #8,,Service Charge6,Fees & Charges,False,,Debit
+713,4_D_D_Checking Account4_D_D_Checking Account,310,Service Fee,2018-07-15,Service Charge #8,,Service Charge6,Fees & Charges,False,,Debit
+726,Personal Checking,380,Uncategorized,2018-07-13,Insufficient Funds Charge Memo,Memo6,Insufficient Funds Charge6 / Memo6,Uncategorized,False,,Debit
+727,4_D_D_Checking Account4_D_D_Checking Account,380,Uncategorized,2018-07-13,Insufficient Funds Charge Memo,Memo6,Insufficient Funds Charge6 / Memo6,Uncategorized,False,,Debit
+728,Business Savings,380,Uncategorized,2018-07-13,Insufficient Funds Charge Memo,Memo6,Insufficient Funds Charge6 / Memo6,Uncategorized,False,,Debit
+729,MasterCard,380,Uncategorized,2018-07-13,Insufficient Funds Charge Memo,Memo6,Insufficient Funds Charge6 / Memo6,Uncategorized,False,,Debit
+730,401K Account,380,Investments,2018-07-13,Insufficient Funds Charge Memo,Memo6,Insufficient Funds Charge6 / Memo6,Investments,False,,Debit
+731,CD %%% Account,380,Uncategorized,2018-07-13,Insufficient Funds Charge Memo,Memo6,Insufficient Funds Charge6 / Memo6,Uncategorized,False,,Debit
+732,Auto Loan,380,Uncategorized,2018-07-13,Insufficient Funds Charge Memo,Memo6,Insufficient Funds Charge6 / Memo6,Uncategorized,False,,Debit
+733,Business CheckingBusiness Checking,380,Uncategorized,2018-07-13,Insufficient Funds Charge Memo,Memo6,Insufficient Funds Charge6 / Memo6,Uncategorized,False,,Debit
+734,Personal Savings,380,Uncategorized,2018-07-13,Insufficient Funds Charge Memo,Memo6,Insufficient Funds Charge6 / Memo6,Uncategorized,False,,Debit
+735,Home Loan,380,Uncategorized,2018-07-13,Insufficient Funds Charge Memo,Memo6,Insufficient Funds Charge6 / Memo6,Uncategorized,False,,Debit
+736,Visa,380,Uncategorized,2018-07-13,Insufficient Funds Charge Memo,Memo6,Insufficient Funds Charge6 / Memo6,Uncategorized,False,,Debit
+737,LOC Loan,380,Uncategorized,2018-07-13,Insufficient Funds Charge Memo,Memo6,Insufficient Funds Charge6 / Memo6,Uncategorized,False,,Debit
+738,MasterCard,360,Uncategorized,2018-07-12,Withdrawal7,,Withdrawal7,Uncategorized,False,,Debit
+739,401K Account,360,Investments,2018-07-12,Withdrawal7,,Withdrawal7,Investments,False,,Debit
+740,Home Loan,360,Uncategorized,2018-07-12,Withdrawal7,,Withdrawal7,Uncategorized,False,,Debit
+741,Business Savings,360,Uncategorized,2018-07-12,Withdrawal7,,Withdrawal7,Uncategorized,False,,Debit
+742,LOC Loan,360,Uncategorized,2018-07-12,Withdrawal7,,Withdrawal7,Uncategorized,False,,Debit
+743,CD %%% Account,360,Uncategorized,2018-07-12,Withdrawal7,,Withdrawal7,Uncategorized,False,,Debit
+744,Personal Savings,360,Uncategorized,2018-07-12,Withdrawal7,,Withdrawal7,Uncategorized,False,,Debit
+745,Personal Checking,360,Uncategorized,2018-07-12,Withdrawal7,,Withdrawal7,Uncategorized,False,,Debit
+746,4_D_D_Checking Account4_D_D_Checking Account,360,Uncategorized,2018-07-12,Withdrawal7,,Withdrawal7,Uncategorized,False,,Debit
+747,Auto Loan,360,Uncategorized,2018-07-12,Withdrawal7,,Withdrawal7,Uncategorized,False,,Debit
+748,Visa,360,Uncategorized,2018-07-12,Withdrawal7,,Withdrawal7,Uncategorized,False,,Debit
+749,Business CheckingBusiness Checking,360,Uncategorized,2018-07-12,Withdrawal7,,Withdrawal7,Uncategorized,False,,Debit
+750,CD %%% Account,350,Auto & Transport,2018-07-10,Automatic Debit,,Automatic Debit7,Auto & Transport,False,,Debit
+751,Personal Savings,350,Auto & Transport,2018-07-10,Automatic Debit,,Automatic Debit7,Auto & Transport,False,,Debit
+752,401K Account,350,Investments,2018-07-10,Automatic Debit,,Automatic Debit7,Investments,False,,Debit
+753,MasterCard,350,Auto & Transport,2018-07-10,Automatic Debit,,Automatic Debit7,Auto & Transport,False,,Debit
+754,Business CheckingBusiness Checking,350,Auto & Transport,2018-07-10,Automatic Debit,,Automatic Debit7,Auto & Transport,False,,Debit
+755,LOC Loan,350,Auto & Transport,2018-07-10,Automatic Debit,,Automatic Debit7,Auto & Transport,False,,Debit
+756,Auto Loan,350,Auto & Transport,2018-07-10,Automatic Debit,,Automatic Debit7,Auto & Transport,False,,Debit
+757,Home Loan,350,Auto & Transport,2018-07-10,Automatic Debit,,Automatic Debit7,Auto & Transport,False,,Debit
+758,Personal Checking,350,Auto & Transport,2018-07-10,Automatic Debit,,Automatic Debit7,Auto & Transport,False,,Debit
+759,Visa,350,Auto & Transport,2018-07-10,Automatic Debit,,Automatic Debit7,Auto & Transport,False,,Debit
+760,Business Savings,350,Auto & Transport,2018-07-10,Automatic Debit,,Automatic Debit7,Auto & Transport,False,,Debit
+761,4_D_D_Checking Account4_D_D_Checking Account,350,Auto & Transport,2018-07-10,Automatic Debit,,Automatic Debit7,Auto & Transport,False,,Debit
+762,Visa,390,Service Fee,2018-07-09,Service Charge,,Service Charge7,Fees & Charges,False,,Debit
+763,Personal Savings,390,Service Fee,2018-07-09,Service Charge,,Service Charge7,Fees & Charges,False,,Debit
+764,Business CheckingBusiness Checking,390,Service Fee,2018-07-09,Service Charge,,Service Charge7,Fees & Charges,False,,Debit
+765,Home Loan,390,Service Fee,2018-07-09,Service Charge,,Service Charge7,Fees & Charges,False,,Debit
+766,Business Savings,390,Service Fee,2018-07-09,Service Charge,,Service Charge7,Fees & Charges,False,,Debit
+767,CD %%% Account,390,Service Fee,2018-07-09,Service Charge,,Service Charge7,Fees & Charges,False,,Debit
+768,4_D_D_Checking Account4_D_D_Checking Account,390,Service Fee,2018-07-09,Service Charge,,Service Charge7,Fees & Charges,False,,Debit
+769,401K Account,390,Investments,2018-07-09,Service Charge,,Service Charge7,Investments,False,,Debit
+770,Auto Loan,390,Service Fee,2018-07-09,Service Charge,,Service Charge7,Fees & Charges,False,,Debit
+771,Personal Checking,390,Service Fee,2018-07-09,Service Charge,,Service Charge7,Fees & Charges,False,,Debit
+772,MasterCard,390,Service Fee,2018-07-09,Service Charge,,Service Charge7,Fees & Charges,False,,Debit
+773,LOC Loan,390,Service Fee,2018-07-09,Service Charge,,Service Charge7,Fees & Charges,False,,Debit
+786,Home Loan,460,Uncategorized,2018-07-07,Insufficient Funds Charge,,Insufficient Funds Charge7,Uncategorized,False,,Debit
+787,MasterCard,460,Uncategorized,2018-07-07,Insufficient Funds Charge,,Insufficient Funds Charge7,Uncategorized,False,,Debit
+788,Personal Savings,460,Uncategorized,2018-07-07,Insufficient Funds Charge,,Insufficient Funds Charge7,Uncategorized,False,,Debit
+789,LOC Loan,460,Uncategorized,2018-07-07,Insufficient Funds Charge,,Insufficient Funds Charge7,Uncategorized,False,,Debit
+790,Auto Loan,460,Uncategorized,2018-07-07,Insufficient Funds Charge,,Insufficient Funds Charge7,Uncategorized,False,,Debit
+791,Business CheckingBusiness Checking,460,Uncategorized,2018-07-07,Insufficient Funds Charge,,Insufficient Funds Charge7,Uncategorized,False,,Debit
+792,4_D_D_Checking Account4_D_D_Checking Account,460,Uncategorized,2018-07-07,Insufficient Funds Charge,,Insufficient Funds Charge7,Uncategorized,False,,Debit
+793,Visa,460,Uncategorized,2018-07-07,Insufficient Funds Charge,,Insufficient Funds Charge7,Uncategorized,False,,Debit
+794,CD %%% Account,460,Uncategorized,2018-07-07,Insufficient Funds Charge,,Insufficient Funds Charge7,Uncategorized,False,,Debit
+795,Business Savings,460,Uncategorized,2018-07-07,Insufficient Funds Charge,,Insufficient Funds Charge7,Uncategorized,False,,Debit
+796,401K Account,460,Investments,2018-07-07,Insufficient Funds Charge,,Insufficient Funds Charge7,Investments,False,,Debit
+797,Personal Checking,460,Uncategorized,2018-07-07,Insufficient Funds Charge,,Insufficient Funds Charge7,Uncategorized,False,,Debit
+798,Personal Checking,410,Uncategorized,2018-07-06,Withdrawal8,,Withdrawal8,Uncategorized,False,,Debit
+799,Visa,410,Uncategorized,2018-07-06,Withdrawal8,,Withdrawal8,Uncategorized,False,,Debit
+800,Home Loan,410,Uncategorized,2018-07-06,Withdrawal8,,Withdrawal8,Uncategorized,False,,Debit
+801,Business Savings,410,Uncategorized,2018-07-06,Withdrawal8,,Withdrawal8,Uncategorized,False,,Debit
+802,Personal Savings,410,Uncategorized,2018-07-06,Withdrawal8,,Withdrawal8,Uncategorized,False,,Debit
+803,Business CheckingBusiness Checking,410,Uncategorized,2018-07-06,Withdrawal8,,Withdrawal8,Uncategorized,False,,Debit
+804,MasterCard,410,Uncategorized,2018-07-06,Withdrawal8,,Withdrawal8,Uncategorized,False,,Debit
+805,CD %%% Account,410,Uncategorized,2018-07-06,Withdrawal8,,Withdrawal8,Uncategorized,False,,Debit
+806,401K Account,410,Investments,2018-07-06,Withdrawal8,,Withdrawal8,Investments,False,,Debit
+807,Auto Loan,410,Uncategorized,2018-07-06,Withdrawal8,,Withdrawal8,Uncategorized,False,,Debit
+808,4_D_D_Checking Account4_D_D_Checking Account,410,Uncategorized,2018-07-06,Withdrawal8,,Withdrawal8,Uncategorized,False,,Debit
+809,LOC Loan,410,Uncategorized,2018-07-06,Withdrawal8,,Withdrawal8,Uncategorized,False,,Debit
+822,Personal Checking,470,Auto & Transport,2018-07-04,Automatic Debit,,Automatic Debit8,Auto & Transport,False,,Debit
+823,Business Savings,470,Auto & Transport,2018-07-04,Automatic Debit,,Automatic Debit8,Auto & Transport,False,,Debit
+824,Home Loan,470,Auto & Transport,2018-07-04,Automatic Debit,,Automatic Debit8,Auto & Transport,False,,Debit
+825,Auto Loan,470,Auto & Transport,2018-07-04,Automatic Debit,,Automatic Debit8,Auto & Transport,False,,Debit
+826,4_D_D_Checking Account4_D_D_Checking Account,470,Auto & Transport,2018-07-04,Automatic Debit,,Automatic Debit8,Auto & Transport,False,,Debit
+827,Personal Savings,470,Auto & Transport,2018-07-04,Automatic Debit,,Automatic Debit8,Auto & Transport,False,,Debit
+828,Visa,470,Auto & Transport,2018-07-04,Automatic Debit,,Automatic Debit8,Auto & Transport,False,,Debit
+829,CD %%% Account,470,Auto & Transport,2018-07-04,Automatic Debit,,Automatic Debit8,Auto & Transport,False,,Debit
+830,Business CheckingBusiness Checking,470,Auto & Transport,2018-07-04,Automatic Debit,,Automatic Debit8,Auto & Transport,False,,Debit
+831,401K Account,470,Investments,2018-07-04,Automatic Debit,,Automatic Debit8,Investments,False,,Debit
+832,MasterCard,470,Auto & Transport,2018-07-04,Automatic Debit,,Automatic Debit8,Auto & Transport,False,,Debit
+833,LOC Loan,470,Auto & Transport,2018-07-04,Automatic Debit,,Automatic Debit8,Auto & Transport,False,,Debit
+834,401K Account,440,Investments,2018-07-03,Service Charge,,Service Charge8,Investments,False,,Debit
+835,Personal Savings,440,Service Fee,2018-07-03,Service Charge,,Service Charge8,Fees & Charges,False,,Debit
+836,Home Loan,440,Service Fee,2018-07-03,Service Charge,,Service Charge8,Fees & Charges,False,,Debit
+837,Auto Loan,440,Service Fee,2018-07-03,Service Charge,,Service Charge8,Fees & Charges,False,,Debit
+838,Visa,440,Service Fee,2018-07-03,Service Charge,,Service Charge8,Fees & Charges,False,,Debit
+839,MasterCard,440,Service Fee,2018-07-03,Service Charge,,Service Charge8,Fees & Charges,False,,Debit
+840,Personal Checking,440,Service Fee,2018-07-03,Service Charge,,Service Charge8,Fees & Charges,False,,Debit
+841,Business CheckingBusiness Checking,440,Service Fee,2018-07-03,Service Charge,,Service Charge8,Fees & Charges,False,,Debit
+842,4_D_D_Checking Account4_D_D_Checking Account,440,Service Fee,2018-07-03,Service Charge,,Service Charge8,Fees & Charges,False,,Debit
+843,LOC Loan,440,Service Fee,2018-07-03,Service Charge,,Service Charge8,Fees & Charges,False,,Debit
+844,CD %%% Account,440,Service Fee,2018-07-03,Service Charge,,Service Charge8,Fees & Charges,False,,Debit
+845,Business Savings,440,Service Fee,2018-07-03,Service Charge,,Service Charge8,Fees & Charges,False,,Debit
+858,MasterCard,450,Uncategorized,2018-07-01,Insufficient Funds Charge,,Insufficient Funds Charge8,Uncategorized,False,,Debit
+859,Business Savings,450,Uncategorized,2018-07-01,Insufficient Funds Charge,,Insufficient Funds Charge8,Uncategorized,False,,Debit
+860,4_D_D_Checking Account4_D_D_Checking Account,450,Uncategorized,2018-07-01,Insufficient Funds Charge,,Insufficient Funds Charge8,Uncategorized,False,,Debit
+861,Auto Loan,450,Uncategorized,2018-07-01,Insufficient Funds Charge,,Insufficient Funds Charge8,Uncategorized,False,,Debit
+862,CD %%% Account,450,Uncategorized,2018-07-01,Insufficient Funds Charge,,Insufficient Funds Charge8,Uncategorized,False,,Debit
+863,Home Loan,450,Uncategorized,2018-07-01,Insufficient Funds Charge,,Insufficient Funds Charge8,Uncategorized,False,,Debit
+864,Personal Checking,450,Uncategorized,2018-07-01,Insufficient Funds Charge,,Insufficient Funds Charge8,Uncategorized,False,,Debit
+865,Business CheckingBusiness Checking,450,Uncategorized,2018-07-01,Insufficient Funds Charge,,Insufficient Funds Charge8,Uncategorized,False,,Debit
+866,LOC Loan,450,Uncategorized,2018-07-01,Insufficient Funds Charge,,Insufficient Funds Charge8,Uncategorized,False,,Debit
+867,Visa,450,Uncategorized,2018-07-01,Insufficient Funds Charge,,Insufficient Funds Charge8,Uncategorized,False,,Debit
+868,401K Account,450,Investments,2018-07-01,Insufficient Funds Charge,,Insufficient Funds Charge8,Investments,False,,Debit
+869,Personal Savings,450,Uncategorized,2018-07-01,Insufficient Funds Charge,,Insufficient Funds Charge8,Uncategorized,False,,Debit
+870,Auto Loan,480,Uncategorized,2018-06-30,Withdrawal9,,Withdrawal9,Uncategorized,False,,Debit
+871,Business Savings,480,Uncategorized,2018-06-30,Withdrawal9,,Withdrawal9,Uncategorized,False,,Debit
+872,LOC Loan,480,Uncategorized,2018-06-30,Withdrawal9,,Withdrawal9,Uncategorized,False,,Debit
+873,CD %%% Account,480,Uncategorized,2018-06-30,Withdrawal9,,Withdrawal9,Uncategorized,False,,Debit
+874,Business CheckingBusiness Checking,480,Uncategorized,2018-06-30,Withdrawal9,,Withdrawal9,Uncategorized,False,,Debit
+875,Personal Savings,480,Uncategorized,2018-06-30,Withdrawal9,,Withdrawal9,Uncategorized,False,,Debit
+876,Personal Checking,480,Uncategorized,2018-06-30,Withdrawal9,,Withdrawal9,Uncategorized,False,,Debit
+877,Home Loan,480,Uncategorized,2018-06-30,Withdrawal9,,Withdrawal9,Uncategorized,False,,Debit
+878,MasterCard,480,Uncategorized,2018-06-30,Withdrawal9,,Withdrawal9,Uncategorized,False,,Debit
+879,Visa,480,Uncategorized,2018-06-30,Withdrawal9,,Withdrawal9,Uncategorized,False,,Debit
+880,401K Account,480,Investments,2018-06-30,Withdrawal9,,Withdrawal9,Investments,False,,Debit
+881,4_D_D_Checking Account4_D_D_Checking Account,480,Uncategorized,2018-06-30,Withdrawal9,,Withdrawal9,Uncategorized,False,,Debit
+894,Personal Checking,550,Auto & Transport,2018-06-28,Automatic Debit,,Automatic Debit9,Auto & Transport,False,,Debit
+895,Business CheckingBusiness Checking,550,Auto & Transport,2018-06-28,Automatic Debit,,Automatic Debit9,Auto & Transport,False,,Debit
+896,MasterCard,550,Auto & Transport,2018-06-28,Automatic Debit,,Automatic Debit9,Auto & Transport,False,,Debit
+897,Auto Loan,550,Auto & Transport,2018-06-28,Automatic Debit,,Automatic Debit9,Auto & Transport,False,,Debit
+898,Home Loan,550,Auto & Transport,2018-06-28,Automatic Debit,,Automatic Debit9,Auto & Transport,False,,Debit
+899,CD %%% Account,550,Auto & Transport,2018-06-28,Automatic Debit,,Automatic Debit9,Auto & Transport,False,,Debit
+900,LOC Loan,550,Auto & Transport,2018-06-28,Automatic Debit,,Automatic Debit9,Auto & Transport,False,,Debit
+901,4_D_D_Checking Account4_D_D_Checking Account,550,Auto & Transport,2018-06-28,Automatic Debit,,Automatic Debit9,Auto & Transport,False,,Debit
+902,401K Account,550,Investments,2018-06-28,Automatic Debit,,Automatic Debit9,Investments,False,,Debit
+903,Personal Savings,550,Auto & Transport,2018-06-28,Automatic Debit,,Automatic Debit9,Auto & Transport,False,,Debit
+904,Business Savings,550,Auto & Transport,2018-06-28,Automatic Debit,,Automatic Debit9,Auto & Transport,False,,Debit
+905,Visa,550,Auto & Transport,2018-06-28,Automatic Debit,,Automatic Debit9,Auto & Transport,False,,Debit
+906,Visa,510,Service Fee,2018-06-27,Service Charge,,Service Charge9,Fees & Charges,False,,Debit
+907,Business CheckingBusiness Checking,510,Service Fee,2018-06-27,Service Charge,,Service Charge9,Fees & Charges,False,,Debit
+908,Home Loan,510,Service Fee,2018-06-27,Service Charge,,Service Charge9,Fees & Charges,False,,Debit
+909,4_D_D_Checking Account4_D_D_Checking Account,510,Service Fee,2018-06-27,Service Charge,,Service Charge9,Fees & Charges,False,,Debit
+910,CD %%% Account,510,Service Fee,2018-06-27,Service Charge,,Service Charge9,Fees & Charges,False,,Debit
+911,401K Account,510,Investments,2018-06-27,Service Charge,,Service Charge9,Investments,False,,Debit
+912,Auto Loan,510,Service Fee,2018-06-27,Service Charge,,Service Charge9,Fees & Charges,False,,Debit
+913,Personal Checking,510,Service Fee,2018-06-27,Service Charge,,Service Charge9,Fees & Charges,False,,Debit
+914,MasterCard,510,Service Fee,2018-06-27,Service Charge,,Service Charge9,Fees & Charges,False,,Debit
+915,Business Savings,510,Service Fee,2018-06-27,Service Charge,,Service Charge9,Fees & Charges,False,,Debit
+916,LOC Loan,510,Service Fee,2018-06-27,Service Charge,,Service Charge9,Fees & Charges,False,,Debit
+917,Personal Savings,510,Service Fee,2018-06-27,Service Charge,,Service Charge9,Fees & Charges,False,,Debit
+930,401K Account,570,Investments,2018-06-25,Insufficient Funds Charge,,Insufficient Funds Charge9,Investments,False,,Debit
+931,Business CheckingBusiness Checking,570,Uncategorized,2018-06-25,Insufficient Funds Charge,,Insufficient Funds Charge9,Uncategorized,False,,Debit
+932,Home Loan,570,Uncategorized,2018-06-25,Insufficient Funds Charge,,Insufficient Funds Charge9,Uncategorized,False,,Debit
+933,Visa,570,Uncategorized,2018-06-25,Insufficient Funds Charge,,Insufficient Funds Charge9,Uncategorized,False,,Debit
+934,CD %%% Account,570,Uncategorized,2018-06-25,Insufficient Funds Charge,,Insufficient Funds Charge9,Uncategorized,False,,Debit
+935,Personal Checking,570,Uncategorized,2018-06-25,Insufficient Funds Charge,,Insufficient Funds Charge9,Uncategorized,False,,Debit
+936,Business Savings,570,Uncategorized,2018-06-25,Insufficient Funds Charge,,Insufficient Funds Charge9,Uncategorized,False,,Debit
+937,LOC Loan,570,Uncategorized,2018-06-25,Insufficient Funds Charge,,Insufficient Funds Charge9,Uncategorized,False,,Debit
+938,Personal Savings,570,Uncategorized,2018-06-25,Insufficient Funds Charge,,Insufficient Funds Charge9,Uncategorized,False,,Debit
+939,MasterCard,570,Uncategorized,2018-06-25,Insufficient Funds Charge,,Insufficient Funds Charge9,Uncategorized,False,,Debit
+940,4_D_D_Checking Account4_D_D_Checking Account,570,Uncategorized,2018-06-25,Insufficient Funds Charge,,Insufficient Funds Charge9,Uncategorized,False,,Debit
+941,Auto Loan,570,Uncategorized,2018-06-25,Insufficient Funds Charge,,Insufficient Funds Charge9,Uncategorized,False,,Debit
+942,Personal Checking,520,Uncategorized,2018-06-24,Withdrawal10,,Withdrawal10,Uncategorized,False,,Debit
+943,Personal Savings,520,Uncategorized,2018-06-24,Withdrawal10,,Withdrawal10,Uncategorized,False,,Debit
+944,MasterCard,520,Uncategorized,2018-06-24,Withdrawal10,,Withdrawal10,Uncategorized,False,,Debit
+945,Auto Loan,520,Uncategorized,2018-06-24,Withdrawal10,,Withdrawal10,Uncategorized,False,,Debit
+946,4_D_D_Checking Account4_D_D_Checking Account,520,Uncategorized,2018-06-24,Withdrawal10,,Withdrawal10,Uncategorized,False,,Debit
+947,CD %%% Account,520,Uncategorized,2018-06-24,Withdrawal10,,Withdrawal10,Uncategorized,False,,Debit
+948,Business Savings,520,Uncategorized,2018-06-24,Withdrawal10,,Withdrawal10,Uncategorized,False,,Debit
+949,Home Loan,520,Uncategorized,2018-06-24,Withdrawal10,,Withdrawal10,Uncategorized,False,,Debit
+950,LOC Loan,520,Uncategorized,2018-06-24,Withdrawal10,,Withdrawal10,Uncategorized,False,,Debit
+951,Business CheckingBusiness Checking,520,Uncategorized,2018-06-24,Withdrawal10,,Withdrawal10,Uncategorized,False,,Debit
+952,401K Account,520,Investments,2018-06-24,Withdrawal10,,Withdrawal10,Investments,False,,Debit
+953,Visa,520,Uncategorized,2018-06-24,Withdrawal10,,Withdrawal10,Uncategorized,False,,Debit
+966,Home Loan,590,Auto & Transport,2018-06-22,Automatic Debit,,Automatic Debit10,Auto & Transport,False,,Debit
+967,Visa,590,Auto & Transport,2018-06-22,Automatic Debit,,Automatic Debit10,Auto & Transport,False,,Debit
+968,Business Savings,590,Auto & Transport,2018-06-22,Automatic Debit,,Automatic Debit10,Auto & Transport,False,,Debit
+969,Personal Checking,590,Auto & Transport,2018-06-22,Automatic Debit,,Automatic Debit10,Auto & Transport,False,,Debit
+970,Auto Loan,590,Auto & Transport,2018-06-22,Automatic Debit,,Automatic Debit10,Auto & Transport,False,,Debit
+971,4_D_D_Checking Account4_D_D_Checking Account,590,Auto & Transport,2018-06-22,Automatic Debit,,Automatic Debit10,Auto & Transport,False,,Debit
+972,401K Account,590,Investments,2018-06-22,Automatic Debit,,Automatic Debit10,Investments,False,,Debit
+973,CD %%% Account,590,Auto & Transport,2018-06-22,Automatic Debit,,Automatic Debit10,Auto & Transport,False,,Debit
+974,MasterCard,590,Auto & Transport,2018-06-22,Automatic Debit,,Automatic Debit10,Auto & Transport,False,,Debit
+975,Personal Savings,590,Auto & Transport,2018-06-22,Automatic Debit,,Automatic Debit10,Auto & Transport,False,,Debit
+976,LOC Loan,590,Auto & Transport,2018-06-22,Automatic Debit,,Automatic Debit10,Auto & Transport,False,,Debit
+977,Business CheckingBusiness Checking,590,Auto & Transport,2018-06-22,Automatic Debit,,Automatic Debit10,Auto & Transport,False,,Debit
+978,Business CheckingBusiness Checking,610,Service Fee,2018-06-21,Service Charge,,Service Charge10,Fees & Charges,False,,Debit
+979,Business Savings,610,Service Fee,2018-06-21,Service Charge,,Service Charge10,Fees & Charges,False,,Debit
+980,Personal Checking,610,Service Fee,2018-06-21,Service Charge,,Service Charge10,Fees & Charges,False,,Debit
+981,401K Account,610,Investments,2018-06-21,Service Charge,,Service Charge10,Investments,False,,Debit
+982,CD %%% Account,610,Service Fee,2018-06-21,Service Charge,,Service Charge10,Fees & Charges,False,,Debit
+983,LOC Loan,610,Service Fee,2018-06-21,Service Charge,,Service Charge10,Fees & Charges,False,,Debit
+984,4_D_D_Checking Account4_D_D_Checking Account,610,Service Fee,2018-06-21,Service Charge,,Service Charge10,Fees & Charges,False,,Debit
+985,Auto Loan,610,Service Fee,2018-06-21,Service Charge,,Service Charge10,Fees & Charges,False,,Debit
+986,Visa,610,Service Fee,2018-06-21,Service Charge,,Service Charge10,Fees & Charges,False,,Debit
+987,Home Loan,610,Service Fee,2018-06-21,Service Charge,,Service Charge10,Fees & Charges,False,,Debit
+988,Personal Savings,610,Service Fee,2018-06-21,Service Charge,,Service Charge10,Fees & Charges,False,,Debit
+989,MasterCard,610,Service Fee,2018-06-21,Service Charge,,Service Charge10,Fees & Charges,False,,Debit
+1002,LOC Loan,600,Uncategorized,2018-06-19,Insufficient Funds Charge,,Insufficient Funds Charge10,Uncategorized,False,,Debit
+1003,4_D_D_Checking Account4_D_D_Checking Account,600,Uncategorized,2018-06-19,Insufficient Funds Charge,,Insufficient Funds Charge10,Uncategorized,False,,Debit
+1004,401K Account,600,Investments,2018-06-19,Insufficient Funds Charge,,Insufficient Funds Charge10,Investments,False,,Debit
+1005,Visa,600,Uncategorized,2018-06-19,Insufficient Funds Charge,,Insufficient Funds Charge10,Uncategorized,False,,Debit
+1006,MasterCard,600,Uncategorized,2018-06-19,Insufficient Funds Charge,,Insufficient Funds Charge10,Uncategorized,False,,Debit
+1007,Personal Savings,600,Uncategorized,2018-06-19,Insufficient Funds Charge,,Insufficient Funds Charge10,Uncategorized,False,,Debit
+1008,Personal Checking,600,Uncategorized,2018-06-19,Insufficient Funds Charge,,Insufficient Funds Charge10,Uncategorized,False,,Debit
+1009,Auto Loan,600,Uncategorized,2018-06-19,Insufficient Funds Charge,,Insufficient Funds Charge10,Uncategorized,False,,Debit
+1010,Business CheckingBusiness Checking,600,Uncategorized,2018-06-19,Insufficient Funds Charge,,Insufficient Funds Charge10,Uncategorized,False,,Debit
+1011,Business Savings,600,Uncategorized,2018-06-19,Insufficient Funds Charge,,Insufficient Funds Charge10,Uncategorized,False,,Debit
+1012,Home Loan,600,Uncategorized,2018-06-19,Insufficient Funds Charge,,Insufficient Funds Charge10,Uncategorized,False,,Debit
+1013,CD %%% Account,600,Uncategorized,2018-06-19,Insufficient Funds Charge,,Insufficient Funds Charge10,Uncategorized,False,,Debit
+1014,Auto Loan,640,Uncategorized,2018-06-18,Withdrawal11,,Withdrawal11,Uncategorized,False,,Debit
+1015,CD %%% Account,640,Uncategorized,2018-06-18,Withdrawal11,,Withdrawal11,Uncategorized,False,,Debit
+1016,Business Savings,640,Uncategorized,2018-06-18,Withdrawal11,,Withdrawal11,Uncategorized,False,,Debit
+1017,MasterCard,640,Uncategorized,2018-06-18,Withdrawal11,,Withdrawal11,Uncategorized,False,,Debit
+1018,Personal Savings,640,Uncategorized,2018-06-18,Withdrawal11,,Withdrawal11,Uncategorized,False,,Debit
+1019,Business CheckingBusiness Checking,640,Uncategorized,2018-06-18,Withdrawal11,,Withdrawal11,Uncategorized,False,,Debit
+1020,LOC Loan,640,Uncategorized,2018-06-18,Withdrawal11,,Withdrawal11,Uncategorized,False,,Debit
+1021,Personal Checking,640,Uncategorized,2018-06-18,Withdrawal11,,Withdrawal11,Uncategorized,False,,Debit
+1022,Visa,640,Uncategorized,2018-06-18,Withdrawal11,,Withdrawal11,Uncategorized,False,,Debit
+1023,401K Account,640,Investments,2018-06-18,Withdrawal11,,Withdrawal11,Investments,False,,Debit
+1024,Home Loan,640,Uncategorized,2018-06-18,Withdrawal11,,Withdrawal11,Uncategorized,False,,Debit
+1025,4_D_D_Checking Account4_D_D_Checking Account,640,Uncategorized,2018-06-18,Withdrawal11,,Withdrawal11,Uncategorized,False,,Debit
+1038,CD %%% Account,630,Auto & Transport,2018-06-16,Automatic Debit,,Automatic Debit11,Auto & Transport,False,,Debit
+1039,401K Account,630,Investments,2018-06-16,Automatic Debit,,Automatic Debit11,Investments,False,,Debit
+1040,Personal Checking,630,Auto & Transport,2018-06-16,Automatic Debit,,Automatic Debit11,Auto & Transport,False,,Debit
+1041,Personal Savings,630,Auto & Transport,2018-06-16,Automatic Debit,,Automatic Debit11,Auto & Transport,False,,Debit
+1042,MasterCard,630,Auto & Transport,2018-06-16,Automatic Debit,,Automatic Debit11,Auto & Transport,False,,Debit
+1043,LOC Loan,630,Auto & Transport,2018-06-16,Automatic Debit,,Automatic Debit11,Auto & Transport,False,,Debit
+1044,Visa,630,Auto & Transport,2018-06-16,Automatic Debit,,Automatic Debit11,Auto & Transport,False,,Debit
+1045,Auto Loan,630,Auto & Transport,2018-06-16,Automatic Debit,,Automatic Debit11,Auto & Transport,False,,Debit
+1046,4_D_D_Checking Account4_D_D_Checking Account,630,Auto & Transport,2018-06-16,Automatic Debit,,Automatic Debit11,Auto & Transport,False,,Debit
+1047,Business Savings,630,Auto & Transport,2018-06-16,Automatic Debit,,Automatic Debit11,Auto & Transport,False,,Debit
+1048,Home Loan,630,Auto & Transport,2018-06-16,Automatic Debit,,Automatic Debit11,Auto & Transport,False,,Debit
+1049,Business CheckingBusiness Checking,630,Auto & Transport,2018-06-16,Automatic Debit,,Automatic Debit11,Auto & Transport,False,,Debit
+1050,Visa,680,Service Fee,2018-06-15,Service Charge,,Service Charge11,Fees & Charges,False,,Debit
+1051,Auto Loan,680,Service Fee,2018-06-15,Service Charge,,Service Charge11,Fees & Charges,False,,Debit
+1052,4_D_D_Checking Account4_D_D_Checking Account,680,Service Fee,2018-06-15,Service Charge,,Service Charge11,Fees & Charges,False,,Debit
+1053,Business Savings,680,Service Fee,2018-06-15,Service Charge,,Service Charge11,Fees & Charges,False,,Debit
+1054,CD %%% Account,680,Service Fee,2018-06-15,Service Charge,,Service Charge11,Fees & Charges,False,,Debit
+1055,LOC Loan,680,Service Fee,2018-06-15,Service Charge,,Service Charge11,Fees & Charges,False,,Debit
+1056,Business CheckingBusiness Checking,680,Service Fee,2018-06-15,Service Charge,,Service Charge11,Fees & Charges,False,,Debit
+1057,MasterCard,680,Service Fee,2018-06-15,Service Charge,,Service Charge11,Fees & Charges,False,,Debit
+1058,401K Account,680,Investments,2018-06-15,Service Charge,,Service Charge11,Investments,False,,Debit
+1059,Home Loan,680,Service Fee,2018-06-15,Service Charge,,Service Charge11,Fees & Charges,False,,Debit
+1060,Personal Savings,680,Service Fee,2018-06-15,Service Charge,,Service Charge11,Fees & Charges,False,,Debit
+1061,Personal Checking,680,Service Fee,2018-06-15,Service Charge,,Service Charge11,Fees & Charges,False,,Debit
+1074,MasterCard,650,Uncategorized,2018-06-13,Insufficient Funds Charge,,Insufficient Funds Charge11,Uncategorized,False,,Debit
+1075,Auto Loan,650,Uncategorized,2018-06-13,Insufficient Funds Charge,,Insufficient Funds Charge11,Uncategorized,False,,Debit
+1076,CD %%% Account,650,Uncategorized,2018-06-13,Insufficient Funds Charge,,Insufficient Funds Charge11,Uncategorized,False,,Debit
+1077,Business Savings,650,Uncategorized,2018-06-13,Insufficient Funds Charge,,Insufficient Funds Charge11,Uncategorized,False,,Debit
+1078,Visa,650,Uncategorized,2018-06-13,Insufficient Funds Charge,,Insufficient Funds Charge11,Uncategorized,False,,Debit
+1079,Business CheckingBusiness Checking,650,Uncategorized,2018-06-13,Insufficient Funds Charge,,Insufficient Funds Charge11,Uncategorized,False,,Debit
+1080,401K Account,650,Investments,2018-06-13,Insufficient Funds Charge,,Insufficient Funds Charge11,Investments,False,,Debit
+1081,4_D_D_Checking Account4_D_D_Checking Account,650,Uncategorized,2018-06-13,Insufficient Funds Charge,,Insufficient Funds Charge11,Uncategorized,False,,Debit
+1082,Personal Savings,650,Uncategorized,2018-06-13,Insufficient Funds Charge,,Insufficient Funds Charge11,Uncategorized,False,,Debit
+1083,Home Loan,650,Uncategorized,2018-06-13,Insufficient Funds Charge,,Insufficient Funds Charge11,Uncategorized,False,,Debit
+1084,LOC Loan,650,Uncategorized,2018-06-13,Insufficient Funds Charge,,Insufficient Funds Charge11,Uncategorized,False,,Debit
+1085,Personal Checking,650,Uncategorized,2018-06-13,Insufficient Funds Charge,,Insufficient Funds Charge11,Uncategorized,False,,Debit
+1086,Auto Loan,670,Uncategorized,2018-06-12,Withdrawal12,,Withdrawal12,Uncategorized,False,,Debit
+1087,CD %%% Account,670,Uncategorized,2018-06-12,Withdrawal12,,Withdrawal12,Uncategorized,False,,Debit
+1088,MasterCard,670,Uncategorized,2018-06-12,Withdrawal12,,Withdrawal12,Uncategorized,False,,Debit
+1089,401K Account,670,Investments,2018-06-12,Withdrawal12,,Withdrawal12,Investments,False,,Debit
+1090,Visa,670,Uncategorized,2018-06-12,Withdrawal12,,Withdrawal12,Uncategorized,False,,Debit
+1091,Personal Savings,670,Uncategorized,2018-06-12,Withdrawal12,,Withdrawal12,Uncategorized,False,,Debit
+1092,Business CheckingBusiness Checking,670,Uncategorized,2018-06-12,Withdrawal12,,Withdrawal12,Uncategorized,False,,Debit
+1093,Business Savings,670,Uncategorized,2018-06-12,Withdrawal12,,Withdrawal12,Uncategorized,False,,Debit
+1094,LOC Loan,670,Uncategorized,2018-06-12,Withdrawal12,,Withdrawal12,Uncategorized,False,,Debit
+1095,4_D_D_Checking Account4_D_D_Checking Account,670,Uncategorized,2018-06-12,Withdrawal12,,Withdrawal12,Uncategorized,False,,Debit
+1096,Personal Checking,670,Uncategorized,2018-06-12,Withdrawal12,,Withdrawal12,Uncategorized,False,,Debit
+1097,Home Loan,670,Uncategorized,2018-06-12,Withdrawal12,,Withdrawal12,Uncategorized,False,,Debit
+1110,MasterCard,700,Auto & Transport,2018-06-10,Automatic Debit,,Automatic Debit12,Auto & Transport,False,,Debit
+1111,Personal Checking,700,Auto & Transport,2018-06-10,Automatic Debit,,Automatic Debit12,Auto & Transport,False,,Debit
+1112,CD %%% Account,700,Auto & Transport,2018-06-10,Automatic Debit,,Automatic Debit12,Auto & Transport,False,,Debit
+1113,Home Loan,700,Auto & Transport,2018-06-10,Automatic Debit,,Automatic Debit12,Auto & Transport,False,,Debit
+1114,Business CheckingBusiness Checking,700,Auto & Transport,2018-06-10,Automatic Debit,,Automatic Debit12,Auto & Transport,False,,Debit
+1115,401K Account,700,Investments,2018-06-10,Automatic Debit,,Automatic Debit12,Investments,False,,Debit
+1116,Personal Savings,700,Auto & Transport,2018-06-10,Automatic Debit,,Automatic Debit12,Auto & Transport,False,,Debit
+1117,4_D_D_Checking Account4_D_D_Checking Account,700,Auto & Transport,2018-06-10,Automatic Debit,,Automatic Debit12,Auto & Transport,False,,Debit
+1118,Business Savings,700,Auto & Transport,2018-06-10,Automatic Debit,,Automatic Debit12,Auto & Transport,False,,Debit
+1119,LOC Loan,700,Auto & Transport,2018-06-10,Automatic Debit,,Automatic Debit12,Auto & Transport,False,,Debit
+1120,Visa,700,Auto & Transport,2018-06-10,Automatic Debit,,Automatic Debit12,Auto & Transport,False,,Debit
+1121,Auto Loan,700,Auto & Transport,2018-06-10,Automatic Debit,,Automatic Debit12,Auto & Transport,False,,Debit
+1122,Business Savings,730,Service Fee,2018-06-09,Service Charge,,Service Charge12,Fees & Charges,False,,Debit
+1123,Business CheckingBusiness Checking,730,Service Fee,2018-06-09,Service Charge,,Service Charge12,Fees & Charges,False,,Debit
+1124,Auto Loan,730,Service Fee,2018-06-09,Service Charge,,Service Charge12,Fees & Charges,False,,Debit
+1125,Personal Checking,730,Service Fee,2018-06-09,Service Charge,,Service Charge12,Fees & Charges,False,,Debit
+1126,401K Account,730,Investments,2018-06-09,Service Charge,,Service Charge12,Investments,False,,Debit
+1127,MasterCard,730,Service Fee,2018-06-09,Service Charge,,Service Charge12,Fees & Charges,False,,Debit
+1128,Home Loan,730,Service Fee,2018-06-09,Service Charge,,Service Charge12,Fees & Charges,False,,Debit
+1129,4_D_D_Checking Account4_D_D_Checking Account,730,Service Fee,2018-06-09,Service Charge,,Service Charge12,Fees & Charges,False,,Debit
+1130,CD %%% Account,730,Service Fee,2018-06-09,Service Charge,,Service Charge12,Fees & Charges,False,,Debit
+1131,LOC Loan,730,Service Fee,2018-06-09,Service Charge,,Service Charge12,Fees & Charges,False,,Debit
+1132,Visa,730,Service Fee,2018-06-09,Service Charge,,Service Charge12,Fees & Charges,False,,Debit
+1133,Personal Savings,730,Service Fee,2018-06-09,Service Charge,,Service Charge12,Fees & Charges,False,,Debit
+1146,Business CheckingBusiness Checking,770,Uncategorized,2018-06-07,Insufficient Funds Charge,,Insufficient Funds Charge12,Uncategorized,False,,Debit
+1147,CD %%% Account,770,Uncategorized,2018-06-07,Insufficient Funds Charge,,Insufficient Funds Charge12,Uncategorized,False,,Debit
+1148,LOC Loan,770,Uncategorized,2018-06-07,Insufficient Funds Charge,,Insufficient Funds Charge12,Uncategorized,False,,Debit
+1149,Personal Checking,770,Uncategorized,2018-06-07,Insufficient Funds Charge,,Insufficient Funds Charge12,Uncategorized,False,,Debit
+1150,Personal Savings,770,Uncategorized,2018-06-07,Insufficient Funds Charge,,Insufficient Funds Charge12,Uncategorized,False,,Debit
+1151,4_D_D_Checking Account4_D_D_Checking Account,770,Uncategorized,2018-06-07,Insufficient Funds Charge,,Insufficient Funds Charge12,Uncategorized,False,,Debit
+1152,MasterCard,770,Uncategorized,2018-06-07,Insufficient Funds Charge,,Insufficient Funds Charge12,Uncategorized,False,,Debit
+1153,Business Savings,770,Uncategorized,2018-06-07,Insufficient Funds Charge,,Insufficient Funds Charge12,Uncategorized,False,,Debit
+1154,Visa,770,Uncategorized,2018-06-07,Insufficient Funds Charge,,Insufficient Funds Charge12,Uncategorized,False,,Debit
+1155,401K Account,770,Investments,2018-06-07,Insufficient Funds Charge,,Insufficient Funds Charge12,Investments,False,,Debit
+1156,Auto Loan,770,Uncategorized,2018-06-07,Insufficient Funds Charge,,Insufficient Funds Charge12,Uncategorized,False,,Debit
+1157,Home Loan,770,Uncategorized,2018-06-07,Insufficient Funds Charge,,Insufficient Funds Charge12,Uncategorized,False,,Debit
