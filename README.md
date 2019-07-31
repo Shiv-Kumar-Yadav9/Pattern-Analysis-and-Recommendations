@@ -12,6 +12,8 @@ The Finding_Trend_and_Analyzing_cutoff.ipynb file shows how the logic of the ide
  
 ## Concept :
   The concept on which the project is based is that the sales that occur all over world always occur at the same point in the year. Some common sales are like the 'Black Friday', 'Christmas Sale', 'New Year Sale', etc...
+  
+  
   The customer can thus tap these opportunities and achieve his goal before time. In case the price keeps on decreasing then the customer can just wait till the point his savings can ammount to money he need for the goal.
   
 ## STEPS OF RECOMMENDING CUTOFFS
@@ -21,4 +23,6 @@ The Finding_Trend_and_Analyzing_cutoff.ipynb file shows how the logic of the ide
   
 ## Concept :
   The ability to tweek with the target month will give better knowledge of the areas in which the person has to reduce his spendings in order to meet the goals.
+  
+  
   Thus it gives the user the ability to change the pressure on spendings based on the urgency and importance of the device.
