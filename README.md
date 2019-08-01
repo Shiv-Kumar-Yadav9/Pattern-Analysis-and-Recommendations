@@ -35,7 +35,9 @@ The Finding_Trend_and_Analyzing_cutoff.ipynb file shows how the logic of the ide
   Thus it gives the user the ability to change the pressure on spendings based on the urgency and importance of the device.
   
 
-# NOTE : THE CONCEPTS AND ITS APPLICATIONS ARE EXPLAINED IN GREATER DETAIL IN THE VIDEO. KINDLY WATCH VIDEO BEFORE SEEING JUPYTER NOTEBOOK.
+
+
+## NOTE : THE CONCEPTS AND ITS APPLICATIONS ARE EXPLAINED IN GREATER DETAIL IN THE VIDEO. KINDLY WATCH VIDEO BEFORE SEEING JUPYTER NOTEBOOK.
 
 
 
