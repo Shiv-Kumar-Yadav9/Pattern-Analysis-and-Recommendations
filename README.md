@@ -4,6 +4,13 @@ Analyzing the cutoff in every sector for achieving the goal that are set by the 
 The Finding_Trend_and_Analyzing_cutoff.ipynb file shows how the logic of the idea flows.
 
 
+## REQUIREMENTS:
+  1) Python 3.5 or above.
+  2) Jupyter Notebook.
+  3) Django Framework.
+  4) Brackets.
+
+
 ## STEPS OF FINDING TREND
   1) The company of the mobile phone is selected by the user.
   2) The program uses the changes in price value of the mobiles previously manufactured by the company.
