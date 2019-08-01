@@ -26,3 +26,27 @@ The Finding_Trend_and_Analyzing_cutoff.ipynb file shows how the logic of the ide
   
   
   Thus it gives the user the ability to change the pressure on spendings based on the urgency and importance of the device.
+  
+
+# DEMO SLIDES :
+
+The home page of the software allows the user to choose the brand name, the targetted month and the current price of the mobile phone.
+The images shows the same:
+
+### FIRST PAGE
+![page1][page1]
+
+
+The second page shows the distribution of cutoff from each sector and the amount in Rupees that the person should reduce in entire target time from each sector so that his savings amount equal to the needed amount to purchase the product.
+
+
+### SECOND PAGE - Part 1
+![page2][page2]
+
+### SECOND PAGE - Part 2
+![page3][page3]
+
+<!--Images-->
+[page1]:misc/images/page1.png "page1"
+[page2]:misc/images/page2.png "page2"
+[page3]:misc/images/page3.png "page3"
